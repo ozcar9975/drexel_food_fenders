@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -34,16 +34,21 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_monster1","path":"objects/obj_monster1/obj_monster1.yy",},},
     {"id":{"name":"Dirt","path":"sprites/Dirt/Dirt.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"spr_Monster1","path":"sprites/spr_Monster1/spr_Monster1.yy",},},
+    {"id":{"name":"path_One","path":"paths/path_One/path_One.yy",},},
     {"id":{"name":"Bullet1","path":"sprites/Bullet1/Bullet1.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"obj_Monster_Spawner","path":"objects/obj_Monster_Spawner/obj_Monster_Spawner.yy",},},
     {"id":{"name":"OBullet1","path":"objects/OBullet1/OBullet1.yy",},},
     {"id":{"name":"DIRT","path":"objects/DIRT/DIRT.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"main_Room","path":"rooms/main_Room/main_Room.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"main_Room","path":"rooms/main_Room/main_Room.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
