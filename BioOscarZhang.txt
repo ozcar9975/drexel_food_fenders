@@ -1,0 +1,3 @@
+Hello, my name is Oscar Zhang and I am currently a student attending Drexel University pursuing a Data Science degree. 
+I came with basic programming knowledge dealing with Java and Python, but I am trying to improve at it along with
+learning new useful skills through attending classes, self-teaching, and future COOPs. 
