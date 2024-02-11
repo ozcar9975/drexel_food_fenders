@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
+if(hp<=0) instance_destroy();
 
-path_start(path_One, 1, path_action_stop, true);
-
-hp=global.hp;
