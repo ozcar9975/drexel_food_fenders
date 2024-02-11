@@ -8,12 +8,14 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_15A3FC2C","path":"rooms/main_Room/main_Room.yy",},
+    {"name":"inst_228AAD73","path":"rooms/main_Room/main_Room.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRPathLayer","resourceVersion":"1.0","name":"Path_1","colour":4278190335,"depth":0,"effectEnabled":true,"effectType":null,"gridX":22,"gridY":24,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"pathId":{"name":"path_One","path":"paths/path_One/path_One.yy",},"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":28,"gridY":26,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_15A3FC2C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Monster_Spawner","path":"objects/obj_Monster_Spawner/obj_Monster_Spawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-28.0,"y":104.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_228AAD73","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ObjTower","path":"objects/ObjTower/ObjTower.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":130.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":45,"SerialiseWidth":80,"TileCompressedData":[
 -560,-2147483648,26,5,6,7,5,6,7,5,6,7,5,6,5,6,7,5,6,7,5,6,7,5,6,7,5,6,7,-54,-2147483648,26,9,10,11,9,10,11,9,10,11,9,10,9,10,11,9,10,11,9,10,11,9,10,11,9,10,11,-54,-2147483648,26,13,14,15,13,14,15,13,14,15,13,14,13,14,15,13,14,15,13,14,
