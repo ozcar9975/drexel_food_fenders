@@ -3,4 +3,5 @@
 
 path_start(path_One, 1, path_action_stop, true);
 
-hp=global.hp;
+max_hp = 50; //gives monster health of 50
+hp = max_hp //makes health for monster easier to adjust
