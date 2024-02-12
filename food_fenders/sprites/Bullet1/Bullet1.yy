@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Bullet1",
-  "bbox_bottom": 3,
+  "bbox_bottom": 15,
   "bbox_left": 0,
-  "bbox_right": 3,
+  "bbox_right": 15,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 4,
+  "height": 16,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cdef75ff-3ad6-4279-af2a-4ec3774bddc0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 4,
+  "width": 16,
 }
