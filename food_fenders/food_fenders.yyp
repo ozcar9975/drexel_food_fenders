@@ -56,7 +56,6 @@
     {"id":{"name":"obj_Monster_Spawner","path":"objects/obj_Monster_Spawner/obj_Monster_Spawner.yy",},},
     {"id":{"name":"OBullet1","path":"objects/OBullet1/OBullet1.yy",},},
     {"id":{"name":"DIRT","path":"objects/DIRT/DIRT.yy",},},
-    {"id":{"name":"Shop","path":"objects/Shop/Shop.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"close_shop","path":"objects/close_shop/close_shop.yy",},},
     {"id":{"name":"main_Room","path":"rooms/main_Room/main_Room.yy",},},
