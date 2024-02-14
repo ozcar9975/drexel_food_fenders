@@ -37,5 +37,7 @@
     {"name":"OBullet1","order":2,"path":"objects/OBullet1/OBullet1.yy",},
     {"name":"DIRT","order":1,"path":"objects/DIRT/DIRT.yy",},
     {"name":"Shop","order":2,"path":"objects/Shop/Shop.yy",},
+    {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"close_shop","order":6,"path":"objects/close_shop/close_shop.yy",},
   ],
 }

@@ -15,3 +15,15 @@ pos_cur_y = pos_hid_y;
 
 x = pos_hid_x;
 y = pos_hid_y;
+
+instance_button_close = instance_create_depth(x,y,depth-1,close_shop)
+instance_button_close.parent = id;
+
+hide = function() {
+	pos_cur_x = pos_hid_x;
+	pos_cur_y = pos_hid_y;
+}
+show = function() {
+	pos_cur_x = pos_show_x;
+	pos_cur_y = pos_show_y;
+}
