@@ -7,7 +7,7 @@ if (instance_number(obj_monster1) = 0)||doneTimer = 0 {
 	global.gold+=100;	//adds gold when next wave starts
 	spawn_delay -=2.5;
 	alarm[0] = spawn_delay;
-	timer = 15;
+	timer = 10;
 	
 }
 
