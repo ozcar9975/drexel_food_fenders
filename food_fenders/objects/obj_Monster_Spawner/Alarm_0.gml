@@ -16,5 +16,6 @@ if (mobs_to_spawn = 0){
 	global.wave += 1;
 	mobs_to_spawn = initial_mob + 1;
 	initial_mob = mobs_to_spawn;
+	global.gold+=100;	//adds gold when next wave starts
 	
 }
