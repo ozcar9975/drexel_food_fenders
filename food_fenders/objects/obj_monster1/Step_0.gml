@@ -8,6 +8,6 @@ if (hp<=0)
 if (path_position == 1)
 {
 	instance_destroy();
-	lives -= 49;
+	lives --;
 }
 
