@@ -1,6 +1,6 @@
 /// spawns the mobs in
 
-global.spd = 1;
+global.spd = 20;
 mobs_to_spawn = 1;
 current_mob = mobs_to_spawn;
 
