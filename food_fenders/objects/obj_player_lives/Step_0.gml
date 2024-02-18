@@ -2,5 +2,5 @@
 
 if (lives <= 0)
 {
-	room_restart()
+	room_goto(EndScreen)
 }
