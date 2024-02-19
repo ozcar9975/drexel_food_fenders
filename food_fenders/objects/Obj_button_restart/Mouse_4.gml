@@ -6,4 +6,9 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(test_stage);
+if global.room == 1 {
+	room_goto(test_stage);
+}
+else if global.room == 0 {
+	room_goto(main_room);
+}
