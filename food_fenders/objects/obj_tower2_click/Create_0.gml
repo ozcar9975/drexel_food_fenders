@@ -1,4 +1,4 @@
-price = 50;
+price = 200;
 
 
 parent = noone;
