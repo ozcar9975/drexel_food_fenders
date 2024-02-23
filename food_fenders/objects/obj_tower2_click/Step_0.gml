@@ -3,8 +3,8 @@
 
 
 if (parent != noone) {
-	x = parent.x + 110;
-	y = 96;
+	x = parent.x + 160;
+	y = 60;
 	
 }
 
