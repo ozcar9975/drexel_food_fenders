@@ -1,3 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.gold += gold;
+
+
+with(other) instance_destroy();
+global.gold-=price*0.2
