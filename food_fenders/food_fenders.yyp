@@ -69,7 +69,6 @@
     {"id":{"name":"scr_macro","path":"scripts/scr_macro/scr_macro.yy",},},
     {"id":{"name":"font_cs20","path":"fonts/font_cs20/font_cs20.yy",},},
     {"id":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},},
-    {"id":{"name":"obj_parent_tower","path":"objects/obj_parent_tower/obj_parent_tower.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
     {"id":{"name":"currency","path":"objects/currency/currency.yy",},},
     {"id":{"name":"main_room","path":"rooms/main_room/main_room.yy",},},

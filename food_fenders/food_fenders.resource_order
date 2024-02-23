@@ -42,7 +42,6 @@
     {"name":"spr_test_stage_warp","order":1,"path":"sprites/spr_test_stage_warp/spr_test_stage_warp.yy",},
     {"name":"ObjTower3","order":1,"path":"objects/ObjTower3/ObjTower3.yy",},
     {"name":"spr_house","order":9,"path":"sprites/spr_house/spr_house.yy",},
-    {"name":"obj_parent_tower","order":18,"path":"objects/obj_parent_tower/obj_parent_tower.yy",},
     {"name":"spr_player_right","order":3,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"currency","order":1,"path":"objects/currency/currency.yy",},
     {"name":"main_room","order":2,"path":"rooms/main_room/main_room.yy",},

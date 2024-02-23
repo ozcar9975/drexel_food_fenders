@@ -16,10 +16,7 @@
     "name": "tower2 (AOE)",
     "path": "folders/Objects/tower2 (AOE).yy",
   },
-  "parentObjectId": {
-    "name": "obj_parent_tower",
-    "path": "objects/obj_parent_tower/obj_parent_tower.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
