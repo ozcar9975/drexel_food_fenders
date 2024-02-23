@@ -1,3 +1,3 @@
 /// player starts with 100 lives
 
-lives = 1
+lives = 100

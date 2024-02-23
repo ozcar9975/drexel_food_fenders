@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ObjTower",
+  "name": "obj_tower2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
@@ -13,8 +13,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "tower1",
-    "path": "folders/Objects/tower1.yy",
+    "name": "tower2 (AOE)",
+    "path": "folders/Objects/tower2 (AOE).yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprTower",
-    "path": "sprites/sprTower/sprTower.yy",
+    "name": "spr_tower2",
+    "path": "sprites/spr_tower2/spr_tower2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
