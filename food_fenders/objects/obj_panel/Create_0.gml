@@ -19,6 +19,16 @@ y = pos_hid_y;
 instance_button_close = instance_create_depth(x,y,depth-1,close_shop)
 instance_button_close.parent = id;
 
+//put towers in shop
+instance_tower_one = instance_create_depth(x,y,depth-1,towerClick)
+instance_tower_one.parent = id;
+
+instance_tower_two = instance_create_depth(x,y,depth-1,obj_tower2_click)
+instance_tower_two.parent = id;
+
+instance_tower_three = instance_create_depth(x,y,depth-1,towerClick3)
+instance_tower_three.parent = id;
+
 hide = function() {
 	pos_cur_x = pos_hid_x;
 	pos_cur_y = pos_hid_y;

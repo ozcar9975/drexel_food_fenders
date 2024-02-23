@@ -16,7 +16,10 @@
     "name": "tower3 (gold)",
     "path": "folders/Objects/tower3 (gold).yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_parent_tower",
+    "path": "objects/obj_parent_tower/obj_parent_tower.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
