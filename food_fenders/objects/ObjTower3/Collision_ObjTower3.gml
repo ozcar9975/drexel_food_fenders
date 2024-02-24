@@ -1,2 +1,2 @@
 with(other) instance_destroy();
-global.gold-=price*0.2
+global.gold-=global.tower3_price*0.2

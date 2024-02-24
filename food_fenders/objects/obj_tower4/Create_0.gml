@@ -1,7 +1,6 @@
 
 
-tower_range = 128; 
-shootingRate = room_speed;
+tower_range = 10000; 
+shootingRate = room_speed*10;
 shooting = false;
 enemyToShoot = noone;
-price = 50;

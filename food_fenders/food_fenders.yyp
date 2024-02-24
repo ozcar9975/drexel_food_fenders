@@ -86,6 +86,7 @@
     {"id":{"name":"obj_tower4_drag","path":"objects/obj_tower4_drag/obj_tower4_drag.yy",},},
     {"id":{"name":"DragTower","path":"objects/DragTower/DragTower.yy",},},
     {"id":{"name":"obj_warp_test_stage","path":"objects/obj_warp_test_stage/obj_warp_test_stage.yy",},},
+    {"id":{"name":"obj_bullet4","path":"objects/obj_bullet4/obj_bullet4.yy",},},
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
     {"id":{"name":"transition_warp","path":"sprites/transition_warp/transition_warp.yy",},},
     {"id":{"name":"obj_Monster_Spawner","path":"objects/obj_Monster_Spawner/obj_Monster_Spawner.yy",},},

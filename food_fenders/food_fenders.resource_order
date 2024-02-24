@@ -56,6 +56,7 @@
     {"name":"Obj_button_quit","order":2,"path":"objects/Obj_button_quit/Obj_button_quit.yy",},
     {"name":"DragTower","order":3,"path":"objects/DragTower/DragTower.yy",},
     {"name":"obj_warp_test_stage","order":1,"path":"objects/obj_warp_test_stage/obj_warp_test_stage.yy",},
+    {"name":"obj_bullet4","order":3,"path":"objects/obj_bullet4/obj_bullet4.yy",},
     {"name":"obj_gameover","order":3,"path":"objects/obj_gameover/obj_gameover.yy",},
     {"name":"transition_warp","order":2,"path":"sprites/transition_warp/transition_warp.yy",},
     {"name":"OBullet1","order":2,"path":"objects/OBullet1/OBullet1.yy",},
