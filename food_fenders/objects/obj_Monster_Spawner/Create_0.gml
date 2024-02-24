@@ -14,7 +14,7 @@ spawn_delay = room_speed * 2; // 2 second delay
 alarm[0] = 1;
 alarm[1] = room_speed*5;
 
-global.gold = 100;
+global.gold = 300;
 global.tower1_price = 50;
 global.tower2_price = 200;
 global.tower3_price = 125;

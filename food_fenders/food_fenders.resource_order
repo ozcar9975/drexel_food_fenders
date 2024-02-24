@@ -10,6 +10,7 @@
     {"name":"tower1","order":11,"path":"folders/Objects/tower1.yy",},
     {"name":"tower2 (AOE)","order":16,"path":"folders/Objects/tower2 (AOE).yy",},
     {"name":"tower3 (gold)","order":17,"path":"folders/Objects/tower3 (gold).yy",},
+    {"name":"tower4 (sniper)","order":18,"path":"folders/Objects/tower4 (sniper).yy",},
     {"name":"UI","order":10,"path":"folders/Objects/UI.yy",},
     {"name":"shop","order":6,"path":"folders/Objects/UI/shop.yy",},
     {"name":"user.warp","order":15,"path":"folders/Objects/user.warp.yy",},
@@ -26,7 +27,6 @@
     {"name":"spr_player","order":10,"path":"folders/Sprites/spr_player.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"tower4 (sniper)","order":18,"path":"folders/Objects/tower4 (sniper).yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
