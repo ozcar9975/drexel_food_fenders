@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_button_quit",
+  "name": "Obj_button_return",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/objButtonParent/objButtonParent.yy",},"value":"Quit",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/objButtonParent/objButtonParent.yy",},"value":"Return",},
   ],
   "parent": {
     "name": "button",
