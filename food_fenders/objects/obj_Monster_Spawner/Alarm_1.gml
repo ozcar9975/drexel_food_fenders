@@ -6,9 +6,9 @@ if (instance_number(obj_monster1) = 0)||doneTimer = 0 {
 	mobs_to_spawn = current_mob;
 	global.gold+=100;	//adds gold when next wave starts
 	spawn_delay -=2.5;
-	alarm[0] = spawn_delay;
+	alarm[0] = spawn_delay / 2;
 	timer = 10;
 	
 }
 
-alarm[1] = room_speed*3;
+alarm[1] = room_speed * 3;

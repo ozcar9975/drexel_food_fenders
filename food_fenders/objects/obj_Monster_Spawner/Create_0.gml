@@ -1,7 +1,7 @@
 /// spawns the mobs in
 
-global.spd = 5;
-mobs_to_spawn = 1;
+global.spd = 1;
+mobs_to_spawn = 3;
 current_mob = mobs_to_spawn;
 
 //timer before next waves of monsters come in
@@ -9,7 +9,7 @@ timer = 10;
 doneTimer = timer;
 
 
-spawn_delay = room_speed * 2; // 2 second delay  
+spawn_delay = room_speed; 
 
 alarm[0] = 1;
 alarm[1] = room_speed*5;
