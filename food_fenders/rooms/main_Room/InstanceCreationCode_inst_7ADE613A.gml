@@ -1,3 +1,3 @@
-target_rm = test_stage;
+target_rm = instruction_room;
 
 num = 1;

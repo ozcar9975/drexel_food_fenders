@@ -7,5 +7,10 @@ if timer > 0{
 }
 
 else timer = 0 {
-	doneTimer = ceil(timer)	
+	if global.room == 1 && global.wave == 5{
+		doneTimer = 100000000
+	}
+	else {
+		doneTimer = ceil(timer)	
+	}
 }

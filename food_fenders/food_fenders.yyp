@@ -141,8 +141,8 @@
     {"id":{"name":"test_stage","path":"rooms/test_stage/test_stage.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"instruction_room","path":"rooms/instruction_room/instruction_room.yy",},},
     {"roomId":{"name":"main_room","path":"rooms/main_room/main_room.yy",},},
+    {"roomId":{"name":"instruction_room","path":"rooms/instruction_room/instruction_room.yy",},},
     {"roomId":{"name":"tutorial_stage","path":"rooms/tutorial_stage/tutorial_stage.yy",},},
     {"roomId":{"name":"tutorial_end","path":"rooms/tutorial_end/tutorial_end.yy",},},
     {"roomId":{"name":"tutorial_fail","path":"rooms/tutorial_fail/tutorial_fail.yy",},},

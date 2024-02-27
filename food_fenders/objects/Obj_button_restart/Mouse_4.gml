@@ -7,7 +7,7 @@
 event_inherited();
 
 if global.room == 1 {
-	room_goto(test_stage);
+	room_goto(instruction_room);
 }
 else if global.room == 0 {
 	room_goto(main_room);
