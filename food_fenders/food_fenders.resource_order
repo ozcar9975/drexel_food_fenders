@@ -56,7 +56,6 @@
     {"name":"Bullet1","order":2,"path":"sprites/Bullet1/Bullet1.yy",},
     {"name":"OBullet3","order":3,"path":"objects/OBullet3/OBullet3.yy",},
     {"name":"Sprite29","order":16,"path":"sprites/Sprite29/Sprite29.yy",},
-    {"name":"tutorial_fail","order":6,"path":"rooms/tutorial_fail/tutorial_fail.yy",},
     {"name":"ObjTower","order":1,"path":"objects/ObjTower/ObjTower.yy",},
     {"name":"Obj_button_restart","order":1,"path":"objects/Obj_button_restart/Obj_button_restart.yy",},
     {"name":"spr_test_stage_warp","order":1,"path":"sprites/spr_test_stage_warp/spr_test_stage_warp.yy",},

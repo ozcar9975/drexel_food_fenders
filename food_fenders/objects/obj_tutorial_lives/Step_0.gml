@@ -2,5 +2,5 @@
 
 if (lives <= 0)
 {
-	room_goto(tutorial_fail)
+	room_goto(EndScreen)
 }
