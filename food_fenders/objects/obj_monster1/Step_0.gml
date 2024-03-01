@@ -8,7 +8,7 @@ if (hp<=0)
 if (path_position == 1)
 {
 	instance_destroy();
-	global.lives --;
+	lives --;
 	global.gold -= gold
 }
 

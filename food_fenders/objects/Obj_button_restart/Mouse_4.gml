@@ -7,8 +7,6 @@
 event_inherited();
 
 if global.room == 1 {
-	room_restart();
-	global.lives = 5;
 	room_set_persistent(tutorial_stage,false)
 	room_goto(tutorial_stage);
 
