@@ -2,8 +2,8 @@
 
 /// spawns the mobs in
 
-global.spd = 10;
-mobs_to_spawn = 3;
+global.spd = 1;
+mobs_to_spawn = 7;
 current_mob = mobs_to_spawn;
 
 //timer before next waves of monsters come in
