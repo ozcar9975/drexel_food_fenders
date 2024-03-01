@@ -1,3 +1,4 @@
+room_persistent = false;
 /// kills mob if it runs out of hp
 if (hp<=0) 
 {

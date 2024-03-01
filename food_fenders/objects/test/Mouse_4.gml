@@ -8,6 +8,7 @@ if global.gamePause == false {
 		room_goto(gacha_room)
 	}
 else {
+		room_set_persistent(test_stage, false)
 		room_goto(tutorial_stage)
 		global.gamePause = false
 	}
