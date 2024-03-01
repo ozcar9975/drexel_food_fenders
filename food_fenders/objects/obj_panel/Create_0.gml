@@ -19,6 +19,9 @@ y = pos_hid_y;
 instance_button_close = instance_create_depth(x,y,depth-1,close_shop)
 instance_button_close.parent = id;
 
+instance_gacha_button = instance_create_depth(x,y,depth-1,obj_clover)
+instance_gacha_button.parent = id;
+
 //put towers in shop
 instance_tower_one = instance_create_depth(x,y,depth-1,towerClick)
 instance_tower_one.parent = id;
