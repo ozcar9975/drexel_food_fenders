@@ -14,3 +14,18 @@ else timer = 0 {
 		doneTimer = ceil(timer)	
 	}
 }
+
+if timer_2 > 0{
+	timer_2 = timer_2 - delta_time/1000000;	
+}
+
+else timer_2 = 0 {
+		doneTimer_2 = ceil(timer_2)	
+	}
+
+if doneTimer_2 > 0 {
+	global.firerate = 20;
+}
+else {
+	global.firerate = 1;
+}
