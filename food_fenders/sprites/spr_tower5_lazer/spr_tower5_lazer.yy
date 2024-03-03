@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "food_fenders",
-    "path": "food_fenders.yyp",
+    "name": "sprites",
+    "path": "folders/Objects/tower5 (railgun)/sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

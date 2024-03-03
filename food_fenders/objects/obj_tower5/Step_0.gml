@@ -7,7 +7,7 @@ if (enemy != noone){
 			if(instance_exists(enemyToShoot)){ 
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var lazer = instance_create_depth(x+30, y+30, obj_bullet2);
+				var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
 				bullet.speed=25;
 				bullet.direction=point_direction(x+30,y+30,enemyToShoot.x,enemyToShoot.y); 
 				
