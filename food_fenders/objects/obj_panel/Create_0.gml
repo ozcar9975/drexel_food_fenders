@@ -35,6 +35,9 @@ instance_tower_three.parent = id;
 instance_tower_four = instance_create_depth(x,y,depth-1,obj_tower4_click)
 instance_tower_four.parent = id;
 
+instance_tower_five = instance_create_depth(x,y,depth-1,obj_tower5_click)
+instance_tower_five.parent = id;
+
 hide = function() {
 	pos_cur_x = pos_hid_x;
 	pos_cur_y = pos_hid_y;
