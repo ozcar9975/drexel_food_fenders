@@ -33,6 +33,7 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"pause","order":4,"path":"folders/Objects/button/pause.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -74,6 +75,7 @@
     {"name":"obj_tower5","order":2,"path":"objects/obj_tower5/obj_tower5.yy",},
     {"name":"Sprite32","order":19,"path":"sprites/Sprite32/Sprite32.yy",},
     {"name":"Sprite34","order":20,"path":"sprites/Sprite34/Sprite34.yy",},
+    {"name":"Object52","order":22,"path":"objects/Object52/Object52.yy",},
     {"name":"obj_house_pic","order":5,"path":"objects/obj_house_pic/obj_house_pic.yy",},
     {"name":"spr_house","order":9,"path":"sprites/spr_house/spr_house.yy",},
     {"name":"spinner","order":2,"path":"objects/spinner/spinner.yy",},
@@ -107,6 +109,7 @@
     {"name":"obj_bullet2","order":3,"path":"objects/obj_bullet2/obj_bullet2.yy",},
     {"name":"Sprite44","order":25,"path":"sprites/Sprite44/Sprite44.yy",},
     {"name":"spr_tower4","order":15,"path":"sprites/spr_tower4/spr_tower4.yy",},
+    {"name":"spr_pause","order":1,"path":"sprites/spr_pause/spr_pause.yy",},
     {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"obj_explosion","order":4,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"Sprite43","order":24,"path":"sprites/Sprite43/Sprite43.yy",},
