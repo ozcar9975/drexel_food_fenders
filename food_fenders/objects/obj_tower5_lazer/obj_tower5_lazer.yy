@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tower5_lazer",
-    "path": "sprites/spr_tower5_lazer/spr_tower5_lazer.yy",
+    "name": "Sprite42",
+    "path": "sprites/Sprite42/Sprite42.yy",
   },
   "spriteMaskId": null,
   "visible": true,
