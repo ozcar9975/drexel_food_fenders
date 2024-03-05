@@ -2,6 +2,8 @@
 // You can write your code in this editor
 
 //timer for mob spawning if players too slow
+global.room = 1;
+
 if timer > 0{
 	timer = timer - delta_time/1000000;	
 }
