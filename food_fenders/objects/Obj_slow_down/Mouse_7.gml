@@ -3,7 +3,7 @@
 
 event_inherited();
 
-room_speed = room_speed / 2
+global.room_spd = room_speed / 2
 
 global.spd = global.spd / 2
 

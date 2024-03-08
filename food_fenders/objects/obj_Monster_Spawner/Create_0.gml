@@ -1,7 +1,7 @@
 
 
 /// spawns the mobs in
-
+global.room_spd = room_speed;
 global.spd = 1;
 mobs_to_spawn = 7;
 current_mob = mobs_to_spawn;
@@ -11,10 +11,10 @@ timer = 10;
 doneTimer = timer;
 
 
-spawn_delay = room_speed; 
+spawn_delay = global.room_spd; 
 
 alarm[0] = 1;
-alarm[1] = room_speed*5;
+alarm[1] = global.room_spd*5;
 
 global.gold = 10000;
 global.tower1_price = 50;

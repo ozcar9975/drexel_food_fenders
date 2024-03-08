@@ -11,4 +11,4 @@ if (instance_number(obj_monster1) = 0)||doneTimer = 0 {
 	
 }
 
-alarm[1] = room_speed * 3;
+alarm[1] =global.room_spd * 3;

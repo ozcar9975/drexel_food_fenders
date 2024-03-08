@@ -8,6 +8,8 @@ event_inherited();
 
 if global.room == 1 {
 	room_set_persistent(tutorial_stage,false)
+	global.spd = 1
+	global.room_spd = room_speed
 	room_goto(tutorial_stage);
 
 }
