@@ -24,3 +24,5 @@ global.tower4_price = 300;
 global.tower5_price = 1000;
 timer_2 = 0;//powerup tower1
 global.firerate = 1;
+timer_3 = 0;//powerup tower2
+global.dmg2 = 1;

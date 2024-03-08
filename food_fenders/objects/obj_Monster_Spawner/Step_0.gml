@@ -17,6 +17,7 @@ else timer = 0 {
 	}
 }
 
+//powerup tower1
 if timer_2 > 0{
 	timer_2 = timer_2 - delta_time/1000000;	
 }
@@ -30,4 +31,23 @@ if doneTimer_2 > 0 {
 }
 else {
 	global.firerate = 1;
+}
+
+
+//powerup tower2
+if timer_3 > 0{
+	timer_3 = timer_3 - delta_time/1000000;	
+}
+
+else timer_3 = 0 {
+		doneTimer_3 = ceil(timer_3)	
+	}
+
+if doneTimer_3 > 0 {
+	global.firerate2 = 5;
+	global.dmg2 = 3;
+}
+else {
+	global.firerate2 = 1;
+	global.dmg2 = 1;
 }

@@ -1,4 +1,4 @@
-
+shootingRate = room_speed/2/global.firerate2;
 var enemy = instance_nearest(x+30,y+30,obj_monster1);
 if (enemy != noone){
 	if(point_distance(x+30,y+30,enemy.x+30,enemy.y+30) <= tower_range){
