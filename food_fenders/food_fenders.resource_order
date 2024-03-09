@@ -35,6 +35,7 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"sprites","order":4,"path":"folders/Objects/tower4 (sniper)/sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -111,7 +112,7 @@
     {"name":"obj_player_lives","order":7,"path":"objects/obj_player_lives/obj_player_lives.yy",},
     {"name":"obj_bullet2","order":3,"path":"objects/obj_bullet2/obj_bullet2.yy",},
     {"name":"Sprite44","order":25,"path":"sprites/Sprite44/Sprite44.yy",},
-    {"name":"spr_tower4","order":15,"path":"sprites/spr_tower4/spr_tower4.yy",},
+    {"name":"spr_tower4","order":1,"path":"sprites/spr_tower4/spr_tower4.yy",},
     {"name":"spr_pause","order":1,"path":"sprites/spr_pause/spr_pause.yy",},
     {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"obj_explosion","order":4,"path":"objects/obj_explosion/obj_explosion.yy",},
