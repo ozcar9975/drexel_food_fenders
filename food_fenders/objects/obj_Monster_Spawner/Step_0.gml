@@ -51,3 +51,14 @@ else {
 	global.firerate2 = 1;
 	global.dmg2 = 1;
 }
+
+
+//powerup tower 3
+if timer_4 > 0{
+	timer_4 = timer_4 - delta_time/1000000;	
+}
+
+else timer_4 = 0 {
+		global.doneTimer_4 = ceil(timer_4)	
+	}
+	

@@ -26,3 +26,4 @@ timer_2 = 0;//powerup tower1
 global.firerate = 1;
 timer_3 = 0;//powerup tower2
 global.dmg2 = 1;
+timer_4 = 0//powerup tower3

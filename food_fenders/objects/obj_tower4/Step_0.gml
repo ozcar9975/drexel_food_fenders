@@ -18,3 +18,4 @@ if (enemy != noone){
 		enemyToShoot = noone;
 	}
 }
+
