@@ -99,6 +99,7 @@
     {"id":{"name":"spr_laser","path":"sprites/spr_laser/spr_laser.yy",},},
     {"id":{"name":"Obj_button_restart","path":"objects/Obj_button_restart/Obj_button_restart.yy",},},
     {"id":{"name":"Sprite42","path":"sprites/Sprite42/Sprite42.yy",},},
+    {"id":{"name":"spr_tower5_animation","path":"sprites/spr_tower5_animation/spr_tower5_animation.yy",},},
     {"id":{"name":"spr_tiles1","path":"sprites/spr_tiles1/spr_tiles1.yy",},},
     {"id":{"name":"obj_tower5_click","path":"objects/obj_tower5_click/obj_tower5_click.yy",},},
     {"id":{"name":"spr_test_stage_warp","path":"sprites/spr_test_stage_warp/spr_test_stage_warp.yy",},},
