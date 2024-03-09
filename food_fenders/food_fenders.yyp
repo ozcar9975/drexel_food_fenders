@@ -96,6 +96,7 @@
     {"id":{"name":"Obj_speed_up","path":"objects/Obj_speed_up/Obj_speed_up.yy",},},
     {"id":{"name":"SprButton","path":"sprites/SprButton/SprButton.yy",},},
     {"id":{"name":"ObjTower","path":"objects/ObjTower/ObjTower.yy",},},
+    {"id":{"name":"spr_laser","path":"sprites/spr_laser/spr_laser.yy",},},
     {"id":{"name":"Obj_button_restart","path":"objects/Obj_button_restart/Obj_button_restart.yy",},},
     {"id":{"name":"Sprite42","path":"sprites/Sprite42/Sprite42.yy",},},
     {"id":{"name":"spr_tiles1","path":"sprites/spr_tiles1/spr_tiles1.yy",},},

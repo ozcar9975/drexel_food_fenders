@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_tower5",
-  "bbox_bottom": 63,
+  "bbox_bottom": 68,
   "bbox_left": 0,
-  "bbox_right": 63,
+  "bbox_right": 66,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c3652ff9-a4dd-4ce6-bdc6-c39c57446aff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"47f14772-00f2-4fc6-b820-555b24d967a7",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 69,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b224ccf6-ec57-44ca-8c99-64718a0d6b5f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a3e57a39-1bc1-43b6-a074-d1ec4f1607b8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c3652ff9-a4dd-4ce6-bdc6-c39c57446aff","path":"sprites/spr_tower5/spr_tower5.yy",},},},"Disabled":false,"id":"8cbd5cf5-17d9-4759-956e-ceef6c5a8345","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"47f14772-00f2-4fc6-b820-555b24d967a7","path":"sprites/spr_tower5/spr_tower5.yy",},},},"Disabled":false,"id":"0fb00e2a-269d-48c1-a395-cff152cec00a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 67,
 }

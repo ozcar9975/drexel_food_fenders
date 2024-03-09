@@ -69,6 +69,7 @@
     {"name":"OBullet3","order":3,"path":"objects/OBullet3/OBullet3.yy",},
     {"name":"Sprite29","order":16,"path":"sprites/Sprite29/Sprite29.yy",},
     {"name":"ObjTower","order":1,"path":"objects/ObjTower/ObjTower.yy",},
+    {"name":"spr_laser","order":2,"path":"sprites/spr_laser/spr_laser.yy",},
     {"name":"Obj_button_restart","order":1,"path":"objects/Obj_button_restart/Obj_button_restart.yy",},
     {"name":"Sprite42","order":23,"path":"sprites/Sprite42/Sprite42.yy",},
     {"name":"obj_tower5_click","order":3,"path":"objects/obj_tower5_click/obj_tower5_click.yy",},
