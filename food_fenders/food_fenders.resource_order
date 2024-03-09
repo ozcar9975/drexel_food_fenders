@@ -14,6 +14,7 @@
     {"name":"tower2 (AOE)","order":16,"path":"folders/Objects/tower2 (AOE).yy",},
     {"name":"tower3 (gold)","order":17,"path":"folders/Objects/tower3 (gold).yy",},
     {"name":"tower4 (sniper)","order":18,"path":"folders/Objects/tower4 (sniper).yy",},
+    {"name":"sprites","order":4,"path":"folders/Objects/tower4 (sniper)/sprites.yy",},
     {"name":"tower5 (railgun)","order":21,"path":"folders/Objects/tower5 (railgun).yy",},
     {"name":"sprites","order":1,"path":"folders/Objects/tower5 (railgun)/sprites.yy",},
     {"name":"tutorial","order":19,"path":"folders/Objects/tutorial.yy",},
@@ -35,7 +36,6 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"sprites","order":4,"path":"folders/Objects/tower4 (sniper)/sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
