@@ -1,6 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-/// @description 
+
 if(keyboard_check_released(ord("I"))){
 	is_showing_inventory = ! is_showing_inventory;
 }
@@ -10,7 +8,7 @@ if(keyboard_check_released(ord("I"))){
 var mx = device_mouse_x_to_gui(0);
 var my = device_mouse_y_to_gui(0);
 	
-var inventory_items = inventory.item_get();
+var inventory_items = global.inventory.item_get();
 var pos_x = 0;
 var pos_y = 0;
 if(is_showing_inventory == true) {
@@ -28,9 +26,10 @@ if(is_showing_inventory == true) {
 							// now we need to check if we have an inventory item here
 							if(inventory_index <= array_length(inventory_items) - 1) {
 								show_debug_message($"Using {inventory_items[inventory_index].name}");
-						
-								inventory.item_subtract(inventory_items[inventory_index].name, 1);
-							} else {						
+								global.inventory.item_subtract(inventory_items[inventory_index].name, 1/array_length(inventory_items));
+								
+								}
+						}   else {						
 								show_debug_message("No inventory item here !");
 							}
 						}
@@ -40,16 +39,19 @@ if(is_showing_inventory == true) {
 		#endregion
 	}
 	
-}
+
 
 if global.randomLoot == obj_test1 {
-	inventory.item_add("test1", 1, spr_test1);
+	
+	global.inventory.item_add("test1", 1, spr_test1);
+	
 	global.randomLoot = 0;
 	
 }
 
 else if global.randomLoot == obj_test2 {
-	inventory.item_add("test2", 1, spr_test2);
+	global.inventory.item_add("test2", 1, spr_test2);
+	
 	global.randomLoot = 0;
 	
 }

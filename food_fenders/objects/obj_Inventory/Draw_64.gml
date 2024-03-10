@@ -1,8 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
 
-
-///// @description 
 if(is_showing_inventory){
 	var g_width = display_get_gui_width();
 	var g_height = display_get_gui_height();
@@ -69,7 +65,7 @@ if(is_showing_inventory){
 	var my = device_mouse_y_to_gui(0);
 
 	// draw inventory place holders
-	inventory_items = inventory.item_get();
+	inventory_items = global.inventory.item_get();
 	for (var row = 0; row < inventory_rows; row++) {
 		var pos_y = ui_padding_y + (ui_border_size * 13) +
 		(row * (ui_inventory_margin + ui_inventory_box));

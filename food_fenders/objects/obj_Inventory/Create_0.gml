@@ -1,14 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-/// @description 
-
-
-
 
 
 is_showing_inventory = false;
-inventory = new Inventory();
+global.inventory = new Inventory();
 
 global.randomLoot = 0;
 
@@ -16,9 +9,9 @@ global.randomLoot = 0;
 
 
 
-show_debug_message(inventory);
+show_debug_message(global.inventory);
 
-// UI INFORMATION //
+// UI INFO 
 
 display_set_gui_size(1280, 720);
 
