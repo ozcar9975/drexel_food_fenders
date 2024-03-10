@@ -1,21 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "spinner",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_test2",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "gacha",
-    "path": "folders/Objects/gacha.yy",
+    "name": "inventory",
+    "path": "folders/Objects/inventory.yy",
   },
-  "parentObjectId": {
-    "name": "obj_inv",
-    "path": "objects/obj_inv/obj_inv.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite37",
-    "path": "sprites/Sprite37/Sprite37.yy",
+    "name": "spr_test2",
+    "path": "sprites/spr_test2/spr_test2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
