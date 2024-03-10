@@ -12,10 +12,7 @@
     "name": "gacha",
     "path": "folders/Objects/gacha.yy",
   },
-  "parentObjectId": {
-    "name": "obj_inv",
-    "path": "objects/obj_inv/obj_inv.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

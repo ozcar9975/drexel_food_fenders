@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "inv",
+  "name": "draw_set",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "inventory",
-    "path": "folders/Objects/inventory.yy",
+    "name": "inv_scripts",
+    "path": "folders/Objects/inventory/inv_scripts.yy",
   },
 }
