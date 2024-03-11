@@ -1,8 +1,10 @@
 
 
 /// spawns the mobs in
+global.spd = room_speed;
 global.room_spd = room_speed;
 global.spd = 1;
+global.bps = global.room_spd;
 mobs_to_spawn = 7;
 current_mob = mobs_to_spawn;
 

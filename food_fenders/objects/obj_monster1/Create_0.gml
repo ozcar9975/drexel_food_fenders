@@ -3,6 +3,7 @@
 
 room_persistent = false;
 
+
 path_start(path_One, global.spd, path_action_stop, true);
 
 gold = 10; //defines variable for death gold

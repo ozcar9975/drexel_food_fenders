@@ -1,4 +1,4 @@
-shootingRate = room_speed/global.firerate;
+shootingRate = global.bps/global.firerate;
 
 
 var enemy = instance_nearest(x+15,y+13,obj_monster1);
