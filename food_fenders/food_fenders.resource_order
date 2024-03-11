@@ -9,6 +9,7 @@
     {"name":"pause","order":4,"path":"folders/Objects/button/pause.yy",},
     {"name":"gacha","order":20,"path":"folders/Objects/gacha.yy",},
     {"name":"inventory","order":25,"path":"folders/Objects/inventory.yy",},
+    {"name":"inv_scripts","order":9,"path":"folders/Objects/inventory/inv_scripts.yy",},
     {"name":"monster1","order":12,"path":"folders/Objects/monster1.yy",},
     {"name":"speed","order":24,"path":"folders/Objects/speed.yy",},
     {"name":"tower1","order":11,"path":"folders/Objects/tower1.yy",},
@@ -37,7 +38,6 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"inv_scripts","order":9,"path":"folders/Objects/inventory/inv_scripts.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -45,6 +45,7 @@
     {"name":"spr_player_left","order":2,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"gacha_room","order":6,"path":"rooms/gacha_room/gacha_room.yy",},
     {"name":"spr_Monster1","order":3,"path":"sprites/spr_Monster1/spr_Monster1.yy",},
+    {"name":"obj_tower5_lazer_animation","order":5,"path":"objects/obj_tower5_lazer_animation/obj_tower5_lazer_animation.yy",},
     {"name":"scr_tutorial","order":1,"path":"scripts/scr_tutorial/scr_tutorial.yy",},
     {"name":"tutorial_stage","order":3,"path":"rooms/tutorial_stage/tutorial_stage.yy",},
     {"name":"draw_set","order":1,"path":"scripts/draw_set/draw_set.yy",},
