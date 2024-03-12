@@ -16,4 +16,7 @@ dialog.add(spr_currency, "On the top left corner, you will see the amount of coi
 dialog.add(spr_grass, "You can plant your towers in the grass for defense.");
 dialog.add(Dirt, "This is the path that the enemies follow. YOU CAN NOT PLANT YOUR TOWERS HERE!");
 dialog.add(spr_Monster1, "These are the pesky invaders that are trying to steal you food. There will be a waves counter in the top center of your screen and the more you eliminate, the more they spawn. Get ready to defend your food.");
-
+dialog.add(spr_speed_up, "This is the speed up button, the first click will 2x the speed and the next will return it to normal speed.");
+dialog.add(clover, "This is the clover, it is a gatcha element that will give you random power ups");
+dialog.add(Sprite37, "Press this to return to the game");
+dialog.add(spr_pause, "This is the pause button. Everything will freeze when it is pressed.");
