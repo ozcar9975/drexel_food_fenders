@@ -33,9 +33,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Bullet1",
-    "path": "sprites/Bullet1/Bullet1.yy",
+    "name": "spr_tower3_bullet",
+    "path": "sprites/spr_tower3_bullet/spr_tower3_bullet.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_tower3_bullet",
+    "path": "sprites/spr_tower3_bullet/spr_tower3_bullet.yy",
+  },
   "visible": true,
 }

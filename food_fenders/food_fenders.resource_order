@@ -38,6 +38,7 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"sprites","order":4,"path":"folders/Objects/tower3 (gold)/sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -112,6 +113,7 @@
     {"name":"test","order":1,"path":"objects/test/test.yy",},
     {"name":"tutorial_dialog","order":3,"path":"objects/tutorial_dialog/tutorial_dialog.yy",},
     {"name":"DragTower","order":3,"path":"objects/DragTower/DragTower.yy",},
+    {"name":"spr_tower3_bullet","order":1,"path":"sprites/spr_tower3_bullet/spr_tower3_bullet.yy",},
     {"name":"dialog_parent","order":4,"path":"objects/dialog_parent/dialog_parent.yy",},
     {"name":"obj_warp_test_stage","order":1,"path":"objects/obj_warp_test_stage/obj_warp_test_stage.yy",},
     {"name":"obj_bullet4","order":3,"path":"objects/obj_bullet4/obj_bullet4.yy",},

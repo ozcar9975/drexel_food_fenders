@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "tower3",
-    "path": "sprites/tower3/tower3.yy",
+    "name": "spr_tower3",
+    "path": "sprites/spr_tower3/spr_tower3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
