@@ -9,4 +9,4 @@ var _health = (hp/max_hp) * 100
 
 draw_self(); //override initial draw function to display health
 
-draw_healthbar(_xx1,_yy1,_xx2,_yy2, _health, c_black, c_red, c_green, 0, false, false);
+draw_healthbar(_xx1,_yy1,_xx2,_yy2, _health, c_black, c_red, c_green, 0, false, true);
