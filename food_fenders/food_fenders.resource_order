@@ -15,6 +15,7 @@
     {"name":"tower1","order":11,"path":"folders/Objects/tower1.yy",},
     {"name":"tower2 (AOE)","order":16,"path":"folders/Objects/tower2 (AOE).yy",},
     {"name":"tower3 (gold)","order":17,"path":"folders/Objects/tower3 (gold).yy",},
+    {"name":"sprites","order":4,"path":"folders/Objects/tower3 (gold)/sprites.yy",},
     {"name":"tower4 (sniper)","order":18,"path":"folders/Objects/tower4 (sniper).yy",},
     {"name":"sprites","order":4,"path":"folders/Objects/tower4 (sniper)/sprites.yy",},
     {"name":"tower5 (railgun)","order":21,"path":"folders/Objects/tower5 (railgun).yy",},
@@ -38,7 +39,6 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"sprites","order":4,"path":"folders/Objects/tower3 (gold)/sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -62,6 +62,7 @@
     {"name":"obj_tutorial_lives","order":9,"path":"objects/obj_tutorial_lives/obj_tutorial_lives.yy",},
     {"name":"Sprite31","order":18,"path":"sprites/Sprite31/Sprite31.yy",},
     {"name":"obj_shop","order":2,"path":"objects/obj_shop/obj_shop.yy",},
+    {"name":"obj_tower3_powerpoint","order":13,"path":"objects/obj_tower3_powerpoint/obj_tower3_powerpoint.yy",},
     {"name":"tower3","order":14,"path":"sprites/tower3/tower3.yy",},
     {"name":"sprTower","order":4,"path":"sprites/sprTower/sprTower.yy",},
     {"name":"Congrats","order":2,"path":"sprites/Congrats/Congrats.yy",},
@@ -144,6 +145,7 @@
     {"name":"spr_left_arrow","order":1,"path":"sprites/spr_left_arrow/spr_left_arrow.yy",},
     {"name":"congrats","order":2,"path":"objects/congrats/congrats.yy",},
     {"name":"obj_tower2_click","order":2,"path":"objects/obj_tower2_click/obj_tower2_click.yy",},
+    {"name":"spr_tower3_powerpoint","order":12,"path":"sprites/spr_tower3_powerpoint/spr_tower3_powerpoint.yy",},
     {"name":"EndScreen","order":1,"path":"rooms/EndScreen/EndScreen.yy",},
   ],
 }
