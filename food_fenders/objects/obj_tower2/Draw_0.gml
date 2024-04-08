@@ -11,7 +11,4 @@ if (is_selected == true) {
 	draw_set_alpha(.5);
 	draw_circle(x+30, y+30, tower_range, true);
 
-	draw_set_alpha(1);
-	draw_self();
-	
 }
