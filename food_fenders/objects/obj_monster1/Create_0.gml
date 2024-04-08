@@ -3,8 +3,13 @@
 
 room_persistent = false;
 
-
-path_start(path_One, global.spd, path_action_stop, true);
+if global.room == 1 {
+	path_start(path_One, global.spd, path_action_stop, true);
+}
+else if global.room == 2 {
+	path_start(level_one_path, global.spd, path_action_stop, true);
+	
+}
 
 gold = 10; //defines variable for death gold
 max_hp = 100; //gives monster health of 50
