@@ -6,13 +6,13 @@
 
 event_inherited();
 
-global.wave_spd = global.wave * 4;
+global.wave_spd = global.wave * 2;
 
-global.room_spd = global.room_spd * 4;
+global.room_spd = global.room_spd * 2;
 
 global.bps = global.bps / 2;
 
-global.spd = global.spd * 4;
+global.spd = global.spd * 2;
 
 instance_destroy();
 
