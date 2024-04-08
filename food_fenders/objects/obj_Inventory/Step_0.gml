@@ -56,6 +56,11 @@ else if global.randomLoot == obj_test2 {
 	
 }
 
-
+else if global.randomLoot == obj_tower3_powerpoint {
+	global.inventory.item_add("tower3_powerpoint", 1, spr_tower3_powerpoint);
+	
+	global.randomLoot = 0;
+	
+}
 
 
