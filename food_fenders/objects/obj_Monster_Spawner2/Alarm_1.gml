@@ -1,5 +1,5 @@
 
-if (instance_number(obj_monster1) = 0)||doneTimer = 0 {
+if (instance_number(obj_monster2) = 0)||doneTimer = 0 {
 	global.wave += 1;
 	global.room_spd += 0.1;
 	current_mob++;
