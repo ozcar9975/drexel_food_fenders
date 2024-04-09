@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "towerClick3",
+  "name": "obj_tower1_click",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "tower3 (gold)",
-    "path": "folders/Objects/tower3 (gold).yy",
+    "name": "tower1",
+    "path": "folders/Objects/tower1.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tower3",
-    "path": "sprites/spr_tower3/spr_tower3.yy",
+    "name": "spr_tower1",
+    "path": "sprites/spr_tower1/spr_tower1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,4 +1,4 @@
-shootingRate = global.bps/global.firerate;
+// shootingRate = global.bps/global.firerate;
 
 
 var enemy = instance_nearest(x+15,y+13,obj_monster1);
@@ -10,16 +10,15 @@ if (enemy != noone){
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x+15,y+13,-9,OBullet1);
+				var bullet = instance_create_depth(x+15,y+13,-9,obj_tower1_bullet);
 				bullet.speed=30;
 				bullet.direction=point_direction(x+15,y+13,enemyToShoot.x,enemyToShoot.y);
+			}
 
 		}
-		
 	}
 	else {
 		enemyToShoot = noone;
-	}
 	}
 }
 

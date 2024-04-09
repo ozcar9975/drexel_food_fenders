@@ -23,13 +23,13 @@ instance_gacha_button = instance_create_depth(x,y,depth-1,obj_clover)
 instance_gacha_button.parent = id;
 
 //put towers in shop
-instance_tower_one = instance_create_depth(x,y,depth-1,towerClick)
+instance_tower_one = instance_create_depth(x,y,depth-1,obj_tower1_click)
 instance_tower_one.parent = id;
 
 instance_tower_two = instance_create_depth(x,y,depth-1,obj_tower2_click)
 instance_tower_two.parent = id;
 
-instance_tower_three = instance_create_depth(x,y,depth-1,towerClick3)
+instance_tower_three = instance_create_depth(x,y,depth-1,obj_tower3_click)
 instance_tower_three.parent = id;
 
 instance_tower_four = instance_create_depth(x,y,depth-1,obj_tower4_click)

@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OBullet1",
-  "eventList": [],
+  "name": "obj_tower3_bullet",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "tower1",
-    "path": "folders/Objects/tower1.yy",
+    "name": "tower3 (gold)",
+    "path": "folders/Objects/tower3 (gold).yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -31,9 +33,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tower1_bullet",
-    "path": "sprites/spr_tower1_bullet/spr_tower1_bullet.yy",
+    "name": "spr_tower3_bullet",
+    "path": "sprites/spr_tower3_bullet/spr_tower3_bullet.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_tower3_bullet",
+    "path": "sprites/spr_tower3_bullet/spr_tower3_bullet.yy",
+  },
   "visible": true,
 }
