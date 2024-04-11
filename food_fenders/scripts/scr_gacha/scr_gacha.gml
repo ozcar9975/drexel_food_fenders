@@ -1,12 +1,12 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function scr_tutorial() constructor {
+function scr_gacha() constructor {
 	
 	_dialogs = [];
 	
-	add = function(_object, _message) {
+	add = function(_sprite, _message) {
 			array_push(_dialogs, {
-				object: _object,
+				sprite: _sprite,
 				message: _message,
 			});
 	}

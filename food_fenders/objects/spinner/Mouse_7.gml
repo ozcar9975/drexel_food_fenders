@@ -1,8 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-a = a + 100
-global.randomLoot = choose(obj_test1,obj_test2,obj_tower3_powerpoint)
-instance_create_layer(x,y+a,"Instances",global.randomLoot)
 
+
+
+sprite_set_speed(Sprite37, 10, spritespeed_framespersecond);
+
+alarm[0] = 5*room_speed
 

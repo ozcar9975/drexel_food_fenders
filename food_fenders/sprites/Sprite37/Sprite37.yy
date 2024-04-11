@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Sprite37",
-  "bbox_bottom": 63,
-  "bbox_left": 10,
-  "bbox_right": 53,
-  "bbox_top": 9,
+  "bbox_bottom": 639,
+  "bbox_left": 100,
+  "bbox_right": 539,
+  "bbox_top": 90,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -19,7 +19,7 @@
   ],
   "gridX": 32,
   "gridY": 32,
-  "height": 64,
+  "height": 640,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0bacfbba-1358-4f57-a1e6-b962bcad65eb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "gacha_sprites",
-    "path": "folders/Sprites/gacha_sprites.yy",
+    "name": "gacha",
+    "path": "folders/Objects/gacha.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -74,5 +74,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 640,
 }
