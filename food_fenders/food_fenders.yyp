@@ -68,6 +68,7 @@
     {"id":{"name":"gacha_room","path":"rooms/gacha_room/gacha_room.yy",},},
     {"id":{"name":"spr_Monster1","path":"sprites/spr_Monster1/spr_Monster1.yy",},},
     {"id":{"name":"obj_tower5_lazer_animation","path":"objects/obj_tower5_lazer_animation/obj_tower5_lazer_animation.yy",},},
+    {"id":{"name":"spr_tester","path":"sprites/spr_tester/spr_tester.yy",},},
     {"id":{"name":"spr_gacha_button","path":"sprites/spr_gacha_button/spr_gacha_button.yy",},},
     {"id":{"name":"scr_tutorial","path":"scripts/scr_tutorial/scr_tutorial.yy",},},
     {"id":{"name":"tutorial_stage","path":"rooms/tutorial_stage/tutorial_stage.yy",},},
