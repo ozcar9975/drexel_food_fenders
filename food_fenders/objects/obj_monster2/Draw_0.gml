@@ -5,7 +5,7 @@ var _xx1 = x ; //pixels top left
 var _xx2 = x + 30; //pixels top right (makes health bar 10 pixels wide)
 var _yy1 = bbox_top - 7; //makes health bar above monster
 var _yy2 = bbox_top - 3; //makes health bar 2 pixels wide (5 - 3 = 2)
-var _health = (hp/max_hp) * 200
+var _health = (hp/max_hp) * 100
 
 draw_self(); //override initial draw function to display health
 
