@@ -4,9 +4,9 @@ function scr_gacha() constructor {
 	
 	_dialogs = [];
 	
-	add = function(_sprite, _message) {
+	add = function(_object, _message) {
 			array_push(_dialogs, {
-				sprite: _sprite,
+				object: _object,
 				message: _message,
 			});
 	}

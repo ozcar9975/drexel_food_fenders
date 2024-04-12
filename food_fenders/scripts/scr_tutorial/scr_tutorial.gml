@@ -4,9 +4,9 @@ function scr_tutorial() constructor {
 	
 	_dialogs = [];
 	
-	add = function(_object, _message) {
+	add = function(_sprite, _message) {
 			array_push(_dialogs, {
-				object: _object,
+				sprite: _sprite,
 				message: _message,
 			});
 	}
