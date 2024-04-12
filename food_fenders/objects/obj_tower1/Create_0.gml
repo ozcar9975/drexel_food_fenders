@@ -1,4 +1,4 @@
-tower_range = 653; 
+tower_range = 150; 
 
 shooting = false;
 enemyToShoot = noone;
