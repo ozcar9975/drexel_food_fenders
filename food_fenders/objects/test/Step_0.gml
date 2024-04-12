@@ -3,4 +3,6 @@
 
 room_set_persistent(tutorial_stage,false)
 
+room_set_persistent(first_level,false)
+
 

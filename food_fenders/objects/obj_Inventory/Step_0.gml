@@ -26,7 +26,8 @@ if(is_showing_inventory == true) {
 							// now we need to check if we have an inventory item here
 							if(inventory_index <= array_length(inventory_items) - 1) {
 								show_debug_message($"Using {inventory_items[inventory_index].name}");
-								global.inventory.item_subtract(inventory_items[inventory_index].name,1/array_length(inventory_items));
+		
+								global.inventory.item_subtract(inventory_items[inventory_index].name,0.5);
 								
 								}
 						}   else {						
