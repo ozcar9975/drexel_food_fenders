@@ -1,1 +1,1 @@
-hp -= 100
+hp -= obj_tower5.bullet_damage

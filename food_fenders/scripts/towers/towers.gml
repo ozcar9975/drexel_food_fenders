@@ -7,6 +7,13 @@ function tower_select(tower) {
 	global.selected_tower = tower;
 	global.selected_tower.is_selected = true;
 	
+	//opens unique shop panel
+	obj_shop_panel_upgrades.tower_name = global.selected_tower.name;
+	obj_shop_panel_upgrades.tower_level = global.selected_tower.level;
+	obj_shop_panel_upgrades.tower_damage = global.selected_tower.bullet_damage;
+	obj_shop_panel_upgrades.tower_upgrade_cost = global.selected_tower.upgrade_cost;
+	obj_shop_panel_upgrades.show();
+	
 }
 
 function tower_deselect(tower) {
