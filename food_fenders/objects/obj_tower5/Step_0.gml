@@ -1,4 +1,4 @@
-shootingRate = global.bps*2/global.firerate;
+shootingRate = global.bps*20/global.firerate;
 var enemy = instance_nearest(x,y,obj_monster1);
 var enemy = instance_nearest(x,y,obj_monster2);
 if (enemy != noone){

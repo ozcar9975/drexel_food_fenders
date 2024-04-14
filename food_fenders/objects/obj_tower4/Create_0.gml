@@ -1,6 +1,6 @@
 
 
-tower_range = 10000; 
+tower_range = 100000; 
 shootingRate = room_speed*10;
 shooting = false;
 enemyToShoot = noone;
