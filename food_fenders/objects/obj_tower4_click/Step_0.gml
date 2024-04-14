@@ -4,8 +4,8 @@
 
 
 if (parent != noone) {
-	x = parent.x + 160;
-	y = 160;
+	x = parent.x + 180;
+	y = 190;
 	
 }
 
