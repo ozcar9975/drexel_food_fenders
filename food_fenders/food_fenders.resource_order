@@ -24,6 +24,7 @@
     {"name":"tutorial","order":19,"path":"folders/Objects/tutorial.yy",},
     {"name":"UI","order":10,"path":"folders/Objects/UI.yy",},
     {"name":"shop","order":6,"path":"folders/Objects/UI/shop.yy",},
+    {"name":"upgrades","order":9,"path":"folders/Objects/UI/upgrades.yy",},
     {"name":"user.warp","order":15,"path":"folders/Objects/user.warp.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Particle Systems","order":1,"path":"folders/Paths/Particle Systems.yy",},
@@ -41,7 +42,6 @@
     {"name":"spr_tutorial","order":16,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"upgrades","order":9,"path":"folders/Objects/UI/upgrades.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -136,6 +136,7 @@
     {"name":"transition_warp","order":2,"path":"sprites/transition_warp/transition_warp.yy",},
     {"name":"towers","order":2,"path":"scripts/towers/towers.yy",},
     {"name":"font_cs_unbold","order":1,"path":"fonts/font_cs_unbold/font_cs_unbold.yy",},
+    {"name":"spr_tower1_powerup","order":3,"path":"sprites/spr_tower1_powerup/spr_tower1_powerup.yy",},
     {"name":"obj_tower1_bullet","order":2,"path":"objects/obj_tower1_bullet/obj_tower1_bullet.yy",},
     {"name":"warp_block","order":2,"path":"objects/warp_block/warp_block.yy",},
     {"name":"DIRT","order":5,"path":"objects/DIRT/DIRT.yy",},

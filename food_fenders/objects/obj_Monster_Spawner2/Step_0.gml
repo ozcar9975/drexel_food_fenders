@@ -23,11 +23,13 @@ if timer_2 > 0{
 }
 
 else timer_2 = 0 {
-		doneTimer_2 = ceil(timer_2)	
+		doneTimer_2 = ceil(timer_2)
+		
 	}
 
 if doneTimer_2 > 0 {
 	global.firerate = 20;
+	
 }
 else {
 	global.firerate = 1;

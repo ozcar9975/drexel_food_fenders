@@ -10,3 +10,4 @@ enemyToShoot = noone;
 
 
 is_selected = false;
+
