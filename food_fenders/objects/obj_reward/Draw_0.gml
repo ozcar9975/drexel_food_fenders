@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//ensures font is the same 
 draw_set_font(font_cs20);
 if (showing_dialog == true) {
 	draw_sprite(spr_gacha_text_bg,0,x+300,y-100)

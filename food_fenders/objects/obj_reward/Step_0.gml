@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+// similar to tutorial's dialogue system
 
 
 if(showing_dialog == false) {

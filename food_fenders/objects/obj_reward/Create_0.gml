@@ -13,5 +13,6 @@ alpha = 0;
 
 dialog.add(global.randomLoot, "You won a ")
 
+//converts object to its name and sprite name
 sprite = object_get_sprite(global.randomLoot);
 name = object_get_name(global.randomLoot)
