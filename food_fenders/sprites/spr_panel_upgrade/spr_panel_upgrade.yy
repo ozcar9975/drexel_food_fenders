@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "upgrades",
-    "path": "folders/Objects/UI/upgrades.yy",
+    "name": "sprites",
+    "path": "folders/Objects/UI/upgrades/sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
