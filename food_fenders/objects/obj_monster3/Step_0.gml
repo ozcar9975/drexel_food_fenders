@@ -1,3 +1,6 @@
+//Vincent Yang 4/17/2024
+//code duplicated from monster 2 then modified
+
 room_persistent = false;
 /// kills mob if it runs out of hp
 if (hp<=0) 
@@ -9,17 +12,7 @@ if (hp<=0)
 if (path_position == 1)
 {
 	instance_destroy();
-	lives --;
+	lives -=2;
 	global.gold -= gold
 }
 
-while object_exists(obj_monster3) {
-	if mode == 0 and global.timer_mon{
-		global.timer_mon = 5;
-		mode++;
-}
-	if mode == 1 and global.timer_mon == 0{
-		global.timer_mon = 5
-		mode--;
-	}
-}

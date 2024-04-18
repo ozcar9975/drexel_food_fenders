@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//Vincent Yang 4/17/2024
+//code duplicated from monster 2
+
 var _xx1 = x ; //pixels top left 
 var _xx2 = x + 30; //pixels top right (makes health bar 10 pixels wide)
 var _yy1 = bbox_top - 7; //makes health bar above monster
