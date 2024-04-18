@@ -68,6 +68,7 @@
     {"name":"obj_left_arrow_parent","order":1,"path":"objects/obj_left_arrow_parent/obj_left_arrow_parent.yy",},
     {"name":"spr_Ff","order":15,"path":"sprites/spr_Ff/spr_Ff.yy",},
     {"name":"obj_tower4_click","order":2,"path":"objects/obj_tower4_click/obj_tower4_click.yy",},
+    {"name":"obj_sell_button","order":6,"path":"objects/obj_sell_button/obj_sell_button.yy",},
     {"name":"spr_gacha_text_bg","order":4,"path":"sprites/spr_gacha_text_bg/spr_gacha_text_bg.yy",},
     {"name":"spr_tower2_bullet","order":8,"path":"sprites/spr_tower2_bullet/spr_tower2_bullet.yy",},
     {"name":"instruction_room","order":5,"path":"rooms/instruction_room/instruction_room.yy",},

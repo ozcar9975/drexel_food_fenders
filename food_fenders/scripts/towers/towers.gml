@@ -26,5 +26,6 @@ function tower_deselect(tower) {
 	}
 	
 	global.selected_tower = noone;
+	obj_shop_panel_upgrades.hide();
 
 }

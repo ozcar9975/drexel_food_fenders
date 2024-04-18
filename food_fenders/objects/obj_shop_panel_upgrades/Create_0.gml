@@ -30,6 +30,10 @@ instance_button_close.parent = id;
 instance_button_close = instance_create_depth(x,y,depth-1, obj_upgrade_button);
 instance_button_close.parent = id;
 
+//sell button 
+instance_button_close = instance_create_depth(x,y,depth-1, obj_sell_button);
+instance_button_close.parent = id;
+
 
 hide = function() {
 	pos_cur_x = pos_hid_x;

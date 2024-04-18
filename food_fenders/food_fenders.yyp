@@ -89,6 +89,7 @@
     {"id":{"name":"obj_left_arrow_parent","path":"objects/obj_left_arrow_parent/obj_left_arrow_parent.yy",},},
     {"id":{"name":"spr_Ff","path":"sprites/spr_Ff/spr_Ff.yy",},},
     {"id":{"name":"obj_tower4_click","path":"objects/obj_tower4_click/obj_tower4_click.yy",},},
+    {"id":{"name":"obj_sell_button","path":"objects/obj_sell_button/obj_sell_button.yy",},},
     {"id":{"name":"spr_gacha_text_bg","path":"sprites/spr_gacha_text_bg/spr_gacha_text_bg.yy",},},
     {"id":{"name":"obj_tower5_lazer","path":"objects/obj_tower5_lazer/obj_tower5_lazer.yy",},},
     {"id":{"name":"spr_tower2_bullet","path":"sprites/spr_tower2_bullet/spr_tower2_bullet.yy",},},
