@@ -21,7 +21,7 @@ pos_cur_y = pos_hid_y;
 x = pos_hid_x;
 y = pos_hid_y;
 
-instance_button_close = instance_create_depth(x,y,15, obj_close_upgrade);
+instance_button_close = instance_create_depth(x,y,depth-1, obj_close_upgrade);
 instance_button_close.parent = id;
 
 

@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-hp-=50*global.dmg0;
+hp-=obj_tower1.bullet_damage*global.dmg0;
 with(other) instance_destroy();
 
 //Vincent Yang 4/17/2024 modified
+//Oscar Zhang 4/18/2024 modified

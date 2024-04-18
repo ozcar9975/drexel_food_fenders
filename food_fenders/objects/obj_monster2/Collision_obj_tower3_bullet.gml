@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 gold+=2;
-hp-=5*global.dmg0;
+hp -= obj_tower3.bullet_damage*global.dmg0;
 with(other) instance_destroy();
 if global.doneTimer_4 > 0{
 	goldchange=choose(50, -50);
@@ -10,3 +10,4 @@ if global.doneTimer_4 > 0{
 
 
 //Vincent Yang 4/17/2024 modified
+//Oscar Zhang 4/18/2024 modified

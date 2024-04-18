@@ -25,6 +25,7 @@
     {"name":"UI","order":10,"path":"folders/Objects/UI.yy",},
     {"name":"shop","order":6,"path":"folders/Objects/UI/shop.yy",},
     {"name":"upgrades","order":9,"path":"folders/Objects/UI/upgrades.yy",},
+    {"name":"sprites","order":4,"path":"folders/Objects/UI/upgrades/sprites.yy",},
     {"name":"user.warp","order":15,"path":"folders/Objects/user.warp.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Particle Systems","order":1,"path":"folders/Paths/Particle Systems.yy",},
@@ -42,7 +43,6 @@
     {"name":"spr_tutorial","order":14,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"sprites","order":4,"path":"folders/Objects/UI/upgrades/sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
@@ -55,6 +55,7 @@
     {"name":"spr_tester","order":26,"path":"sprites/spr_tester/spr_tester.yy",},
     {"name":"spr_gacha_button","order":5,"path":"sprites/spr_gacha_button/spr_gacha_button.yy",},
     {"name":"scr_tutorial","order":1,"path":"scripts/scr_tutorial/scr_tutorial.yy",},
+    {"name":"Sprite68","order":24,"path":"sprites/Sprite68/Sprite68.yy",},
     {"name":"tutorial_stage","order":3,"path":"rooms/tutorial_stage/tutorial_stage.yy",},
     {"name":"first_level","order":7,"path":"rooms/first_level/first_level.yy",},
     {"name":"draw_set","order":1,"path":"scripts/draw_set/draw_set.yy",},

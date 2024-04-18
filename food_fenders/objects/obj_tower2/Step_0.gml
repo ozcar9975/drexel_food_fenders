@@ -1,6 +1,7 @@
 shootingRate = global.bps*2/global.firerate2;
 var enemy = instance_nearest(x+30,y+30,obj_monster1);
 var enemy1 = instance_nearest(x+30,y+30,obj_monster2);
+var enemy2 = instance_nearest(x+30,y+30,obj_monster3);
 if (enemy != noone){
 	if(point_distance(x+30,y+30,enemy.x+30,enemy.y+30) <= tower_range){
 		if (!shooting) {
@@ -39,10 +40,9 @@ else if (enemy1 != noone){
 		enemyToShoot = noone;
 	}
 }
-
 //Vincent Yang 4/17/24 modified
-var enemy2 = instance_nearest(x,y,obj_monster3);
-if (enemy2 != noone){
+//Oscar Zhang 4/18/24 modified
+else if (enemy2 != noone){
 	if(point_distance(x+30,y+30,enemy2.x+30,enemy2.y+30) <= tower_range){
 		if (!shooting) {
 			enemyToShoot = enemy2;
