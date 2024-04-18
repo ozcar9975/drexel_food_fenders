@@ -2,7 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function tower_select(tower) {
 	
-	tower_deselect();
+	tower_deselect(global.selected_tower);
 	
 	global.selected_tower = tower;
 	global.selected_tower.is_selected = true;
@@ -12,6 +12,7 @@ function tower_select(tower) {
 	obj_shop_panel_upgrades.tower_level = global.selected_tower.level;
 	obj_shop_panel_upgrades.tower_damage = global.selected_tower.bullet_damage;
 	obj_shop_panel_upgrades.tower_upgrade_cost = global.selected_tower.upgrade_cost;
+	obj_shop_panel_upgrades.tower_sell_price = global.selected_tower.sell_price;
 	obj_shop_panel_upgrades.show();
 	
 }
