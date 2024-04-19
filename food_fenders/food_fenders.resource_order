@@ -12,6 +12,7 @@
     {"name":"inv_scripts","order":9,"path":"folders/Objects/inventory/inv_scripts.yy",},
     {"name":"monster","order":12,"path":"folders/Objects/monster.yy",},
     {"name":"monster1sprites","order":7,"path":"folders/Objects/monster/monster1sprites.yy",},
+    {"name":"monster2sprites","order":8,"path":"folders/Objects/monster/monster2sprites.yy",},
     {"name":"speed","order":24,"path":"folders/Objects/speed.yy",},
     {"name":"tower1","order":11,"path":"folders/Objects/tower1.yy",},
     {"name":"sprites","order":4,"path":"folders/Objects/tower1/sprites.yy",},
@@ -44,7 +45,7 @@
     {"name":"spr_tutorial","order":14,"path":"folders/Sprites/spr_tutorial.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"monster2sprites","order":8,"path":"folders/Objects/monster/monster2sprites.yy",},
+    {"name":"monster3sprites","order":9,"path":"folders/Objects/monster/monster3sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_monster1","order":1,"path":"objects/obj_monster1/obj_monster1.yy",},
