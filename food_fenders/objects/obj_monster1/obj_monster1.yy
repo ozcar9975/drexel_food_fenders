@@ -16,8 +16,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "monster1",
-    "path": "folders/Objects/monster1.yy",
+    "name": "monster",
+    "path": "folders/Objects/monster.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Monster1",
-    "path": "sprites/spr_Monster1/spr_Monster1.yy",
+    "name": "spr_mon1",
+    "path": "sprites/spr_mon1/spr_mon1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
