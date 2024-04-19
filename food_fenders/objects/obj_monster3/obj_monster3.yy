@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_monster3",
-    "path": "sprites/spr_monster3/spr_monster3.yy",
+    "name": "spr_mon3",
+    "path": "sprites/spr_mon3/spr_mon3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
