@@ -1,4 +1,9 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Edited by Oscar Zhang - 4/25/24
+
 hp -= obj_tower1.bullet_damage;
-with(other) instance_destroy();
+
+instance_create_depth(x, y, -10, obj_tower1_collision);
+
+with(other) {
+	instance_destroy();
+}
