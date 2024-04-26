@@ -14,7 +14,7 @@ if (hp<=0)
 // kills mob and subtracts a life
 if (path_position == 1)
 {
-	//mod: Vincent Yang
+	//mod: Vincent Yang 4/26/24
 	//double damage to house when enemy buff is active
 	instance_destroy();
 	lives -=1*global.lives_multiplier;
