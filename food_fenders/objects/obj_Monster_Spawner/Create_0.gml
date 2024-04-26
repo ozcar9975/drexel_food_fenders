@@ -31,4 +31,6 @@ timer_3 = 0;//powerup tower2
 global.dmg2 = 1;
 timer_4 = 0//powerup tower3
 
-
+//mod: Vincent Yang 4/26/24
+//added multiplier for house damage
+global.lives_multiplier = 1
