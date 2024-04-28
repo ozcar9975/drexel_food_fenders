@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_test2",
+  "name": "obj_tower3_power",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_test2",
-    "path": "sprites/spr_test2/spr_test2.yy",
+    "name": "spr_tower3_power",
+    "path": "sprites/spr_tower3_power/spr_tower3_power.yy",
   },
   "spriteMaskId": null,
   "visible": true,

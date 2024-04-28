@@ -1,4 +1,17 @@
 shootingRate = global.bps*2/global.firerate2;
+
+
+//Modified by Alvin Chen, 4/27/2024
+if global.firerate2 = 5 {
+	
+	sprite_index = spr_tower2_powered_up
+	
+}
+
+else {
+	sprite_index = spr_tower2
+	
+}
 var enemy = instance_nearest(x+30,y+30,obj_monster1);
 var enemy1 = instance_nearest(x+30,y+30,obj_monster2);
 var enemy2 = instance_nearest(x+30,y+30,obj_monster3);

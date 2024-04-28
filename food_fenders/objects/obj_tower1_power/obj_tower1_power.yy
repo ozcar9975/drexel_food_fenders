@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_test1",
+  "name": "obj_tower1_power",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_test1",
-    "path": "sprites/spr_test1/spr_test1.yy",
+    "name": "spr_tower1_power",
+    "path": "sprites/spr_tower1_power/spr_tower1_power.yy",
   },
   "spriteMaskId": null,
   "visible": true,

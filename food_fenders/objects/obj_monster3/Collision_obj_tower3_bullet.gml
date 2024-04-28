@@ -7,7 +7,7 @@
 gold+=2;    //increases death gold
 hp -= obj_tower3.bullet_damage*global.dmg0;
 with(other) instance_destroy();
-if global.doneTimer_4 > 0{        //tower 3 power-up
+if global.firerate3 == 5{        //tower 3 power-up
 	goldchange=choose(50, -50);  
 	global.gold+=goldchange;
 }

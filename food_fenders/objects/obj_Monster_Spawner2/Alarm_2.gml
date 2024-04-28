@@ -1,10 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-/*if firerate_timer > 0{
-	global.firerate = 2;
-}
-else
-{
-	global.firerate = 1;*/
+//Author: Alvin Chen, 4/27/2024
 
 
+global.firerate = 1;

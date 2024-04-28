@@ -42,16 +42,22 @@ if(is_showing_inventory == true) {
 	
 
 
-if global.randomLoot == obj_test1 {
+if global.randomLoot == obj_tower1_power {
 	
-	global.inventory.item_add("test1", 1, spr_test1);
+	global.inventory.item_add("tower1powerup", 1, spr_tower1_power);
 	
 	global.randomLoot = 0;
 	
 }
 
-else if global.randomLoot == obj_test2 {
-	global.inventory.item_add("test2", 1, spr_test2);
+else if global.randomLoot == obj_tower2_power {
+	global.inventory.item_add("tower2powerup", 1, spr_tower2_power);
+	
+	global.randomLoot = 0;
+	
+}
+else if global.randomLoot == obj_tower3_power {
+	global.inventory.item_add("tower3powerup", 1, spr_tower3_power);
 	
 	global.randomLoot = 0;
 	
@@ -90,5 +96,33 @@ else if global.randomLoot == obj_tower5_powerpoint {
 	
 	global.randomLoot = 0;
 	
+}
+//Modified by Alvin Chen, 4/27/2024
+//for tower 1-3 power up activation
+//all the values are cut in half because the inventory is a global value
+if keyboard_check_released(ord("A")){
+	if global.inventory.item_has("tower1powerup",0.5){
+		global.inventory.item_subtract("tower1powerup",0.5)
+		global.power1 = true;
+
+	}
+	
+}
+
+
+
+
+if keyboard_check_released(ord("B")){
+	if global.inventory.item_has("tower2powerup",0.5){
+		global.inventory.item_subtract("tower2powerup",0.5)
+		global.power2 = true;
+	}
+}
+
+if keyboard_check_released(ord("C")){
+	if global.inventory.item_has("tower3powerup",0.5){
+		global.inventory.item_subtract("tower3powerup",0.5)
+		global.power3 = true;
+	}
 }
 

@@ -1,5 +1,19 @@
 shootingRate = global.bps/global.firerate;
 
+
+//Modified by Alvin Chen, 4/28/2024
+if global.firerate == 20 {
+	
+	sprite_index = spr_tower1_powerup	
+	
+}
+
+else{
+	
+	sprite_index = spr_tower1	
+}
+
+
 var enemy1 = instance_nearest(x,y,obj_monster1);
 var enemy = instance_nearest(x,y,obj_monster2);
 if (enemy != noone){

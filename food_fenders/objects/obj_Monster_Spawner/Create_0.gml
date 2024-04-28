@@ -1,6 +1,10 @@
 /// temporary storing spot for tower upgrades
 global.selected_tower = noone;
 
+
+
+
+
 /// spawns the mobs in
 global.spd = room_speed;
 global.room_spd = room_speed;

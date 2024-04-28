@@ -3,7 +3,7 @@
 gold+=2;
 hp -= obj_tower3.bullet_damage*global.dmg0;
 with(other) instance_destroy();
-if global.doneTimer_4 > 0{
+if global.firerate3  == 5{
 	goldchange=choose(50, -50);
 	global.gold+=goldchange;
 }

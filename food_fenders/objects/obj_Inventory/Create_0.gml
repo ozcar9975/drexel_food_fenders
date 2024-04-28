@@ -4,7 +4,9 @@ is_showing_inventory = false;
 global.inventory = new Inventory();
 
 global.randomLoot = 0;
-
+global.power1 = false;
+global.power2 = false;
+global.power3 = false;
 
 
 
