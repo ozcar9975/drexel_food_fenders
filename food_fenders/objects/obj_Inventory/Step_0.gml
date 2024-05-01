@@ -39,64 +39,17 @@ if(is_showing_inventory == true) {
 			}
 		#endregion
 	}
-	
 
-
-if global.randomLoot == obj_tower1_power {
-	
-	global.inventory.item_add("tower1powerup", 1, spr_tower1_power);
-	
-	global.randomLoot = 0;
-	
+//Modified by Alvin Chen, 4/30/2024
+//Optimized code for inventory
+var sprite = object_get_sprite(global.randomLoot)
+var name = object_get_name(global.randomLoot)
+if global.randomLoot != 0 {
+	global.inventory.item_add(name,1,sprite)
+	global.randomLoot = 0
 }
 
-else if global.randomLoot == obj_tower2_power {
-	global.inventory.item_add("tower2powerup", 1, spr_tower2_power);
-	
-	global.randomLoot = 0;
-	
-}
-else if global.randomLoot == obj_tower3_power {
-	global.inventory.item_add("tower3powerup", 1, spr_tower3_power);
-	
-	global.randomLoot = 0;
-	
-}
 
-else if global.randomLoot == obj_tower1_powerpoint {
-	global.inventory.item_add("tower1_powerpoint", 1, spr_tower1_powerpoint);
-	
-	global.randomLoot = 0;
-	
-}
-
-else if global.randomLoot == obj_tower2_powerpoint {
-	global.inventory.item_add("tower2_powerpoint", 1, spr_tower2_powerpoint);
-	
-	global.randomLoot = 0;
-	
-}
-
-else if global.randomLoot == obj_tower3_powerpoint {
-	global.inventory.item_add("tower3_powerpoint", 1, spr_tower3_powerpoint);
-	
-	global.randomLoot = 0;
-	
-}
-
-else if global.randomLoot == obj_tower4_powerpoint {
-	global.inventory.item_add("tower4_powerpoint", 1, spr_tower4_powerpoint);
-	
-	global.randomLoot = 0;
-	
-}
-
-else if global.randomLoot == obj_tower5_powerpoint {
-	global.inventory.item_add("tower5_powerpoint", 1, spr_tower5_powerpoint);
-	
-	global.randomLoot = 0;
-	
-}
 //Modified by Alvin Chen, 4/27/2024
 //for tower 1-3 power up activation
 //all the values are cut in half because the inventory is a global value

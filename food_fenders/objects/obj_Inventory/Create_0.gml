@@ -34,3 +34,60 @@ color_inventory_text = c_white;
 color_inventory_highlight = c_white;
 
 
+//Past code for step function
+/*if global.randomLoot == obj_tower1_power {
+	
+	global.inventory.item_add("tower1powerup", 1, spr_tower1_power);
+	
+	global.randomLoot = 0;
+	
+}
+
+else if global.randomLoot == obj_tower2_power {
+	global.inventory.item_add("tower2powerup", 1, spr_tower2_power);
+	
+	global.randomLoot = 0;
+	
+}
+else if global.randomLoot == obj_tower3_power {
+	global.inventory.item_add("tower3powerup", 1, spr_tower3_power);
+	
+	global.randomLoot = 0;
+	
+}
+
+else if global.randomLoot == obj_tower1_powerpoint {
+	global.inventory.item_add("tower1_powerpoint", 1, spr_tower1_powerpoint);
+	
+	global.randomLoot = 0;
+	
+}
+
+else if global.randomLoot == obj_tower2_powerpoint {
+	global.inventory.item_add("tower2_powerpoint", 1, spr_tower2_powerpoint);
+	
+	global.randomLoot = 0;
+	
+}
+
+else if global.randomLoot == obj_tower3_powerpoint {
+	global.inventory.item_add("tower3_powerpoint", 1, spr_tower3_powerpoint);
+	
+	global.randomLoot = 0;
+	
+}
+
+else if global.randomLoot == obj_tower4_powerpoint {
+	global.inventory.item_add("tower4_powerpoint", 1, spr_tower4_powerpoint);
+	
+	global.randomLoot = 0;
+	
+}
+
+else if global.randomLoot == obj_tower5_powerpoint {
+	global.inventory.item_add("tower5_powerpoint", 1, spr_tower5_powerpoint);
+	
+	global.randomLoot = 0;
+	
+}
+*/

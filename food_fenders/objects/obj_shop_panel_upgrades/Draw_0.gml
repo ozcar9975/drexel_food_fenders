@@ -9,7 +9,7 @@ draw_set_halign(fa_left);
 draw_text(
 	bbox_left + 16,
 	bbox_top + 16,
-	"Tower: " + string(tower_name) + "(Level: " + string(tower_level) + ")"
+	"Tower: " + string(tower_name) + " (Level: " + string(tower_level) + ")"
 );
 
 draw_text(
