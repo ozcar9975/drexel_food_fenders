@@ -3,7 +3,7 @@
 
 if (parent != noone) {
 	
-	if global.selected_tower.name == "Ordinary Apple" {
+	if global.selected_tower.name == "Ordinary Apple" and global.inventory.item_has("obj_tower1_powerpoint",1) {
 		if (global.gold >= global.selected_tower.upgrade_cost) {
 		
 			global.gold -= global.selected_tower.upgrade_cost;

@@ -54,8 +54,8 @@ if global.randomLoot != 0 {
 //for tower 1-3 power up activation
 //all the values are cut in half because the inventory is a global value
 if keyboard_check_released(ord("A")){
-	if global.inventory.item_has("tower1powerup",0.5){
-		global.inventory.item_subtract("tower1powerup",0.5)
+	if global.inventory.item_has("obj_tower1_power",0.5){
+		global.inventory.item_subtract("obj_tower1_power",0.5)
 		global.power1 = true;
 
 	}
@@ -66,15 +66,15 @@ if keyboard_check_released(ord("A")){
 
 
 if keyboard_check_released(ord("B")){
-	if global.inventory.item_has("tower2powerup",0.5){
-		global.inventory.item_subtract("tower2powerup",0.5)
+	if global.inventory.item_has("obj_tower2_power",0.5){
+		global.inventory.item_subtract("obj_tower2_power",0.5)
 		global.power2 = true;
 	}
 }
 
 if keyboard_check_released(ord("C")){
-	if global.inventory.item_has("tower3powerup",0.5){
-		global.inventory.item_subtract("tower3powerup",0.5)
+	if global.inventory.item_has("obj_tower3_power",0.5){
+		global.inventory.item_subtract("obj_tower3_power",0.5)
 		global.power3 = true;
 	}
 }
