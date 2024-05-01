@@ -3,6 +3,8 @@ level = 1;
 bullet_damage = 50;
 upgrade_cost = 500;
 sell_price = 50;
+point = obj_tower1_powerpoint
+
 
 tower_range = 150; 
 shooting = false;
