@@ -13,8 +13,17 @@ function tower_select(tower) {
 	obj_shop_panel_upgrades.tower_damage = global.selected_tower.bullet_damage;
 	obj_shop_panel_upgrades.tower_upgrade_cost = global.selected_tower.upgrade_cost;
 	obj_shop_panel_upgrades.tower_sell_price = global.selected_tower.sell_price;
-	obj_shop_panel_upgrades.show();
 	
+	//Modified by Alvin Chen, 5/1/2024
+	//To ensure that special upgrade only pop up when the enemy is level 5
+	if global.selected_tower.level >= 5 and global.selected_tower.empowered = false{
+		obj_shop_panel_upgrades.special();
+	}
+	else {
+		obj_shop_panel_upgrades.despecial();
+		
+	}
+	obj_shop_panel_upgrades.show();
 }
 
 function tower_deselect(tower) {

@@ -5,6 +5,7 @@ room_persistent = false;
 //modified: Vincent Yang  5/1/24
 //speed will be affected by enemy speed element
 
+
 if global.room == 1 {
 	path_start(path_One, global.spd * 1.5 * global.speed_element, path_action_stop, true);
 }

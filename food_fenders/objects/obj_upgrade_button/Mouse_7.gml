@@ -13,10 +13,20 @@ if (parent != noone) {
 		global.gold -= global.selected_tower.upgrade_cost;
 		
 		global.selected_tower.upgrade();
+
 		
 		tower_select(global.selected_tower);
 		
+		
+		
+		
+		
 		}
+	else {
+		instance_create_depth(x,y,-1,obj_lack)
+		
+		
+	}
 	}
 	
 

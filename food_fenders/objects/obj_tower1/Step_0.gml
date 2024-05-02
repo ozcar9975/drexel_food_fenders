@@ -23,7 +23,14 @@ if (enemy != noone){
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x,y,-9,obj_tower1_bullet);
+				//Modified by Alvin Chen, 5/1/2024
+				//special upgrade makes tower shoot different shots
+				if empowered == true {
+					var bullet = instance_create_depth(x,y,-9,obj_tower1_fire_bullet);
+				}
+				else {
+					var bullet = instance_create_depth(x,y,-9,obj_tower1_bullet);
+				}
 				bullet.speed=30;
 				bullet.direction=point_direction(x,y,enemyToShoot.x,enemyToShoot.y);
 			}
@@ -41,7 +48,12 @@ if (enemy1 != noone){
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x,y,-9,obj_tower1_bullet);
+				if empowered == true {
+					var bullet = instance_create_depth(x,y,-9,obj_tower1_fire_bullet);
+				}
+				else {
+					var bullet = instance_create_depth(x,y,-9,obj_tower1_bullet);
+				}
 				bullet.speed=30;
 				bullet.direction=point_direction(x,y,enemyToShoot.x,enemyToShoot.y);
 			}
@@ -63,7 +75,12 @@ if (enemy2 != noone){
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x,y,-9,obj_tower1_bullet);
+				if empowered == true {
+					var bullet = instance_create_depth(x,y,-9,obj_tower1_fire_bullet);
+				}
+				else {
+					var bullet = instance_create_depth(x,y,-9,obj_tower1_bullet);
+				}
 				bullet.speed=30;
 				bullet.direction=point_direction(x,y,enemyToShoot.x,enemyToShoot.y);
 			}
@@ -74,3 +91,5 @@ if (enemy2 != noone){
 		enemyToShoot = noone;
 	}
 }
+
+
