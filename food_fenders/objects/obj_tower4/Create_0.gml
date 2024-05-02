@@ -4,6 +4,7 @@ bullet_damage = 100;
 upgrade_cost = 500;
 sell_price = 200;
 point = obj_tower4_powerpoint
+empowered = false
 
 tower_range = 10000; 
 shootingRate = room_speed*10;
