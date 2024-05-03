@@ -64,6 +64,7 @@
     {"name":"draw_set","order":1,"path":"scripts/draw_set/draw_set.yy",},
     {"name":"spr_tower1_powerpoint","order":7,"path":"sprites/spr_tower1_powerpoint/spr_tower1_powerpoint.yy",},
     {"name":"Sprite37","order":7,"path":"sprites/Sprite37/Sprite37.yy",},
+    {"name":"obj_mini_tower3","order":5,"path":"objects/obj_mini_tower3/obj_mini_tower3.yy",},
     {"name":"waves_tutorial","order":7,"path":"objects/waves_tutorial/waves_tutorial.yy",},
     {"name":"obj_tower4","order":1,"path":"objects/obj_tower4/obj_tower4.yy",},
     {"name":"spr_upgrade_button","order":2,"path":"sprites/spr_upgrade_button/spr_upgrade_button.yy",},

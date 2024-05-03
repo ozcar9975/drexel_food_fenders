@@ -84,6 +84,7 @@
     {"id":{"name":"draw_set","path":"scripts/draw_set/draw_set.yy",},},
     {"id":{"name":"spr_tower1_powerpoint","path":"sprites/spr_tower1_powerpoint/spr_tower1_powerpoint.yy",},},
     {"id":{"name":"Sprite37","path":"sprites/Sprite37/Sprite37.yy",},},
+    {"id":{"name":"obj_mini_tower3","path":"objects/obj_mini_tower3/obj_mini_tower3.yy",},},
     {"id":{"name":"level_one_path","path":"paths/level_one_path/level_one_path.yy",},},
     {"id":{"name":"waves_tutorial","path":"objects/waves_tutorial/waves_tutorial.yy",},},
     {"id":{"name":"path_One","path":"paths/path_One/path_One.yy",},},

@@ -13,6 +13,11 @@ else{
 	sprite_index = spr_tower3	
 }
 
+//Vincent Yang 5/3/24
+				//Modified added tower 3 empower
+if empowered == true {			
+	instance_create_depth(self.x, self.y, -9, obj_mini_tower3)
+}
 
 
 var enemy = instance_nearest(x+15,y+13,obj_monster1);
@@ -25,6 +30,7 @@ if (enemy != noone){
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0, shootingRate)
+				
 				var bullet = instance_create_depth(x+15,y+13,-9,obj_tower3_bullet);
 				bullet.speed=30;
 				bullet.direction=point_direction(x+15,y+13,enemyToShoot.x,enemyToShoot.y);
