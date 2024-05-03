@@ -11,6 +11,15 @@ if (parent != noone) {
 
 		tower_select(global.selected_tower);
 		
+		if global.selected_tower.name == "Expensive Strawberries"{
+//Vincent Yang 5/3/24
+//Modified: added tower 3 empower		
+			instance_create_depth(global.selected_tower.x+10, global.selected_tower.y, -9, obj_mini_tower3)
+			instance_create_depth(global.selected_tower.x-80, global.selected_tower.y, -9, obj_mini_tower3)
+			instance_create_depth(global.selected_tower.x+10, global.selected_tower.y-80, -9, obj_mini_tower3)
+			instance_create_depth(global.selected_tower.x-80, global.selected_tower.y-80, -9, obj_mini_tower3)
+}
+
 		
 		
 		

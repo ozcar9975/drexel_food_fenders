@@ -13,12 +13,7 @@ else{
 	sprite_index = spr_tower3	
 }
 
-//Vincent Yang 5/3/24
-//Modified: added tower 3 empower
-if empowered == true {			
-	instance_create_depth(self.x+10, self.y, -9, obj_mini_tower3)
-	instance_create_depth(self.x-10, self.y, -9, obj_mini_tower3)
-}
+
 
 
 var enemy = instance_nearest(x+15,y+13,obj_monster1);

@@ -4,5 +4,5 @@
 
 //Vincent Yang 5/3/24
 gold+=1;
-hp -= obj_mini_tower3.bullet_damage;
+hp -= obj_mini_tower3.bullet_damage*global.dmg0;
 with(other) instance_destroy();

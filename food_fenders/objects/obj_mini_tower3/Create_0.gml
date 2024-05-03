@@ -8,4 +8,4 @@ shootingRate = room_speed/3;
 shooting = false;
 enemyToShoot = noone;
 global.bops = 1
-bullet_damage = obj_tower3.bullet_damage/2*global.dmg0;
+bullet_damage = 1
