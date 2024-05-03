@@ -29,11 +29,15 @@ global.tower2_price = 200;
 global.tower3_price = 125;
 global.tower4_price = 300;
 global.tower5_price = 1000;
-timer_2 = 0;//powerup tower1
+
 global.firerate = 1;
-timer_3 = 0;//powerup tower2
+global.firerate2 = 1;
+global.firerate3 = 1;
+
 global.dmg2 = 1;
-timer_4 = 0//powerup tower3
+global.dmg0 = 1;
+
+
 
 //mod: Vincent Yang 4/26/24
 //added multiplier for house damage
