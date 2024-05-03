@@ -1,5 +1,8 @@
 room_persistent = false;
 /// kills mob if it runs out of hp
+
+mon2speed = 0
+
 if (hp<=0) 
 {
 	//Mod: Alvin Chen, 4/18/24

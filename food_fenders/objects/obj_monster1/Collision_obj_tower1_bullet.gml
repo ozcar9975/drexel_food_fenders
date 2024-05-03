@@ -1,11 +1,10 @@
 // Edited by Oscar Zhang - 4/25/24
 
 
-var damage = obj_tower1.bullet_damage*global.dmg0
-hp -= damage;
+hp -= obj_tower1.bullet_damage*global.dmg0;
 
-var coldamage = obj_tower1_collision
-instance_create_depth(x, y, -10, coldamage);
+
+instance_create_depth(x, y, -10, obj_tower1_collision);
 
 with(other) {
 	instance_destroy();
