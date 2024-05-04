@@ -1,14 +1,14 @@
 {
-  "resourceType": "GMPath",
-  "resourceVersion": "1.0",
-  "name": "level_one_path",
-  "closed": false,
-  "kind": 0,
-  "parent": {
-    "name": "Particle Systems",
-    "path": "folders/Paths/Particle Systems.yy",
+  "$GMPath":"",
+  "%Name":"level_one_path",
+  "closed":false,
+  "kind":0,
+  "name":"level_one_path",
+  "parent":{
+    "name":"Particle Systems",
+    "path":"folders/Paths/Particle Systems.yy",
   },
-  "points": [
+  "points":[
     {"speed":100.0,"x":96.0,"y":0.0,},
     {"speed":100.0,"x":96.0,"y":544.0,},
     {"speed":100.0,"x":320.0,"y":544.0,},
@@ -30,5 +30,7 @@
     {"speed":100.0,"x":736.0,"y":704.0,},
     {"speed":100.0,"x":736.0,"y":736.0,},
   ],
-  "precision": 1,
+  "precision":1,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }

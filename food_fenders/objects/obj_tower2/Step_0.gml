@@ -1,5 +1,11 @@
 shootingRate = global.bps*2/global.firerate2;
 
+// Modded by Oscar - 5/4
+// changes tower name if empowered
+if (empowered == true) {
+	name = "Cluster Cabbage";
+}
+
 
 //Modified by Alvin Chen, 4/27/2024
 if global.firerate2 = 5 {
@@ -22,7 +28,14 @@ if (enemy != noone){
 			if(instance_exists(enemyToShoot)){ 
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
+				// Modded by Oscar - 5/4
+				// tower shoots a cluster bomb instead of regular explosion if empowered
+				if (empowered == true) {
+					var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2_empowered);
+				}
+				else {
+					var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
+				}
 				bullet.speed=25;
 				bullet.direction=point_direction(x+30,y+30,enemyToShoot.x,enemyToShoot.y); 
 				
@@ -41,9 +54,16 @@ else if (enemy1 != noone){
 			if(instance_exists(enemyToShoot)){ 
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
+				// Modded by Oscar - 5/4
+				// tower shoots a cluster bomb instead of regular explosion if empowered
+				if (empowered == true) {
+					var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2_empowered);
+				}
+				else {
+					var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
+				}
 				bullet.speed=25;
-				bullet.direction=point_direction(x+30,y+30,enemyToShoot.x,enemyToShoot.y); 
+				bullet.direction=point_direction(x+30,y+30,enemyToShoot.x,enemyToShoot.y);  
 				
 			}
 		}
@@ -62,9 +82,16 @@ else if (enemy2 != noone){
 			if(instance_exists(enemyToShoot)){ 
 				shooting = true;
 				alarm_set(0,shootingRate)
-				var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
+				// Modded by Oscar - 5/4
+				// tower shoots a cluster bomb instead of regular explosion if empowered
+				if (empowered == true) {
+					var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2_empowered);
+				}
+				else {
+					var bullet = instance_create_depth(x+30,y+30,-9,obj_bullet2);
+				}
 				bullet.speed=25;
-				bullet.direction=point_direction(x+30,y+30,enemyToShoot.x,enemyToShoot.y);
+				bullet.direction=point_direction(x+30,y+30,enemyToShoot.x,enemyToShoot.y); 
 							}
 		}
 		
