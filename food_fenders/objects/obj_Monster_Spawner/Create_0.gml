@@ -10,6 +10,11 @@ global.spd = room_speed;
 global.room_spd = room_speed;
 global.spd = 1;
 global.bps = global.room_spd;
+
+//Leo Li 5/5/24
+// amount of towers when you start the game
+global.towers_placed = 0;
+
 mobs_to_spawn = 7;
 current_mob = mobs_to_spawn;
 

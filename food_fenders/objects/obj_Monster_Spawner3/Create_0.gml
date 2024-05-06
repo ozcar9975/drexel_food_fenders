@@ -19,3 +19,7 @@ global.speed_element = 1
 time_speed_element = choose(5,10,20,30,40)
 alarm[3] = room_speed*time_speed_element
 alarm[4] = room_speed*(time_speed_element+choose(5,5,5,10,10,10,10,10,10,30))
+
+// Leo Li 5/5/24
+// amount of towers when you start the game
+global.towers_placed = 0;

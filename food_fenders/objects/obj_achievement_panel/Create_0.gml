@@ -22,6 +22,13 @@ y = pos_hid_y;
 instance_button_close = instance_create_depth(x,y,depth-1, obj_close_achievement);
 instance_button_close.parent = id;
 
+// mod: Leo Li 5/5/24
+instance_spr_ach1 = instance_create_depth(x,y,depth-1,obj_ach1);
+instance_spr_ach1.parent = id;
+
+instance_spr_ach2 = instance_create_depth(x,y,depth-1,obj_ach2);
+instance_spr_ach2.parent = id;
+
 hide = function() {
 	pos_cur_x = pos_hid_x;
 	pos_cur_y = pos_hid_y;

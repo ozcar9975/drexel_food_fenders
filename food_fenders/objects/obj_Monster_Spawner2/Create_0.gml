@@ -20,6 +20,11 @@ alarm[0] = 1;
 alarm[1] = global.room_spd*5;
 
 global.gold = 10000;
+
+// Leo Li 5/5/24
+// amount of towers when you start the game
+global.towers_placed = 0;
+
 global.tower1_price = 50;
 global.tower2_price = 200;
 global.tower3_price = 125;
