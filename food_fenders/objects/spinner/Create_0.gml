@@ -8,3 +8,4 @@ global.randomLoot = 0;
 sprite_set_speed(Sprite37, 0, spritespeed_framespersecond);
 sprite_set_speed(Sprite58, 0, spritespeed_framespersecond);
 
+//

@@ -7,7 +7,7 @@
   "managed":true,
   "name":"Obj_button_return",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/objButtonParent/objButtonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Return",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/objButtonParent/objButtonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Return",},
   ],
   "parent":{
     "name":"button",
