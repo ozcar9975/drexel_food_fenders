@@ -12,7 +12,7 @@ else if global.room == 2 {
 }
 
 gold = 10; //defines variable for death gold
-max_hp = 100; //gives monster health of 100
+max_hp = 500; //gives monster health of 100 (500 for testing)
 hp = max_hp //makes health for monster easier to adjust
 
 if global.wave > 0 {

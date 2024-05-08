@@ -1,8 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Modified - Oscar - 5/3
 
-
-hp -= 10
-instance_create_depth(x, y, -10, obj_tower1_collision);
-alarm[0] = room_speed
-
+image_blend = c_white;
+alarm[0] = room_speed * 0.5;

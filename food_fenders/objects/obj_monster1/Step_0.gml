@@ -20,4 +20,3 @@ if (path_position == 1)
 	lives -=1*global.lives_multiplier;
 	global.gold -= gold
 }
-

@@ -1,7 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
-hp -= 10
+// Modified - Oscar - 5/3
+
+hp -= 10;
 instance_create_depth(x, y, -10, obj_tower1_collision);
-alarm[1] = room_speed
-
-
+image_blend = c_red;
+alarm[1] = room_speed;
