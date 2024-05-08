@@ -215,6 +215,7 @@
     {"name":"Sprite68","order":24,"path":"sprites/Sprite68/Sprite68.yy",},
     {"name":"Sprite86","order":25,"path":"sprites/Sprite86/Sprite86.yy",},
     {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"spr_tower3_empower","order":4,"path":"sprites/spr_tower3_empower/spr_tower3_empower.yy",},
     {"name":"sprTower","order":4,"path":"sprites/sprTower/sprTower.yy",},
     {"name":"str_mini_tower3","order":3,"path":"sprites/str_mini_tower3/str_mini_tower3.yy",},
     {"name":"tower3","order":13,"path":"sprites/tower3/tower3.yy",},

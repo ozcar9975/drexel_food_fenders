@@ -63,7 +63,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"food_fenders",
   "resources":[
@@ -269,6 +269,7 @@
     {"id":{"name":"Sprite68","path":"sprites/Sprite68/Sprite68.yy",},},
     {"id":{"name":"Sprite86","path":"sprites/Sprite86/Sprite86.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
+    {"id":{"name":"spr_tower3_empower","path":"sprites/spr_tower3_empower/spr_tower3_empower.yy",},},
     {"id":{"name":"sprTower","path":"sprites/sprTower/sprTower.yy",},},
     {"id":{"name":"str_mini_tower3","path":"sprites/str_mini_tower3/str_mini_tower3.yy",},},
     {"id":{"name":"tower3","path":"sprites/tower3/tower3.yy",},},

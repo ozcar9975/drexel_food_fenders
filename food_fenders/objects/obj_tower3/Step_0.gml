@@ -13,8 +13,10 @@ else{
 	sprite_index = spr_tower3	
 }
 
-
-
+//Modified Vincent Yang 5/8/2024
+if empowered{
+	sprite_index = spr_tower3_empower
+}
 
 var enemy = instance_nearest(x+15,y+13,obj_monster1);
 var enemy = instance_nearest(x+15,y+13,obj_monster2);
