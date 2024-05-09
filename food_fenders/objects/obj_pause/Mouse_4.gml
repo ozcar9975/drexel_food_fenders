@@ -22,10 +22,13 @@ if gamePaused == false {
 	}
 	instance_deactivate_all(true);
 	instance_activate_object(obj_pause)
+	//Editted by Alvin Chen, 5/9/2024
+	instance_create_layer(500,500,-1,obj_menu)
 	gamePaused = true;
 }
 else {
 	instance_activate_all();
+	instance_deactivate_object(obj_menu)
 	global.pausevalue  = 1;
 	gamePaused = false;
 	allObjects = noone;
