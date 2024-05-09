@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu",
+  "%Name":"obj_quit",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_menu",
+  "name":"obj_quit",
   "overriddenProperties":[],
   "parent":{
     "name":"pause",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_menu",
-    "path":"sprites/spr_menu/spr_menu.yy",
+    "name":"spr_quit",
+    "path":"sprites/spr_quit/spr_quit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

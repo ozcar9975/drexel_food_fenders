@@ -23,12 +23,19 @@ if gamePaused == false {
 	instance_deactivate_all(true);
 	instance_activate_object(obj_pause)
 	//Editted by Alvin Chen, 5/9/2024
-	instance_create_layer(500,500,-1,obj_menu)
+	//makes menu panel, with home,setting,and quit button
+	instance_create_depth(613,370,depth-1,obj_menu)
+	instance_create_depth(613,270,depth-2,obj_home)
+	instance_create_depth(613,370,depth-2,obj_set)
+	instance_create_depth(613,470,depth-2,obj_quit)
 	gamePaused = true;
 }
 else {
 	instance_activate_all();
 	instance_deactivate_object(obj_menu)
+	instance_deactivate_object(obj_home)
+	instance_deactivate_object(obj_set)
+	instance_deactivate_object(obj_quit)
 	global.pausevalue  = 1;
 	gamePaused = false;
 	allObjects = noone;

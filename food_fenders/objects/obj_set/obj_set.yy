@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_set",
+  "eventList":[],
   "managed":true,
-  "name":"obj_menu",
+  "name":"obj_set",
   "overriddenProperties":[],
   "parent":{
     "name":"pause",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_menu",
-    "path":"sprites/spr_menu/spr_menu.yy",
+    "name":"spr_set",
+    "path":"sprites/spr_set/spr_set.yy",
   },
   "spriteMaskId":null,
   "visible":true,
