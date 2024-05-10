@@ -1,6 +1,9 @@
 // Created by Oscar - 5/4
 // damages all enemies in range of cluster
 
+// Modified by Oscar - 5/10
+// double damage to enemies in the inner range
+
 with(obj_monster1) {
 
 	if (point_distance(x,y,other.x,other.y) <= 100) {
