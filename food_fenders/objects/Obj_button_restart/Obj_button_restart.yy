@@ -7,7 +7,7 @@
   "managed":true,
   "name":"Obj_button_restart",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/objButtonParent/objButtonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Restart",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/objButtonParent/objButtonParent.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Restart",},
   ],
   "parent":{
     "name":"button",
