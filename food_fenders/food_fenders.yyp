@@ -204,6 +204,7 @@
     {"id":{"name":"spr_achievement_panel","path":"sprites/spr_achievement_panel/spr_achievement_panel.yy",},},
     {"id":{"name":"spr_achievement","path":"sprites/spr_achievement/spr_achievement.yy",},},
     {"id":{"name":"spr_close_upgrades","path":"sprites/spr_close_upgrades/spr_close_upgrades.yy",},},
+    {"id":{"name":"spr_cluster_backup","path":"sprites/spr_cluster_backup/spr_cluster_backup.yy",},},
     {"id":{"name":"spr_cluster","path":"sprites/spr_cluster/spr_cluster.yy",},},
     {"id":{"name":"spr_currency","path":"sprites/spr_currency/spr_currency.yy",},},
     {"id":{"name":"spr_explosion","path":"sprites/spr_explosion/spr_explosion.yy",},},
