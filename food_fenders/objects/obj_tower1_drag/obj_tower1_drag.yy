@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tower1",
-    "path":"sprites/spr_tower1/spr_tower1.yy",
+    "name":"spr_tower1_shop",
+    "path":"sprites/spr_tower1_shop/spr_tower1_shop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

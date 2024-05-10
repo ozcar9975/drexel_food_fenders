@@ -210,6 +210,7 @@
     {"name":"spr_tower1_power","order":17,"path":"sprites/spr_tower1_power/spr_tower1_power.yy",},
     {"name":"spr_tower1_powerpoint","order":7,"path":"sprites/spr_tower1_powerpoint/spr_tower1_powerpoint.yy",},
     {"name":"spr_tower1_powerup","order":3,"path":"sprites/spr_tower1_powerup/spr_tower1_powerup.yy",},
+    {"name":"spr_tower1_shop","order":8,"path":"sprites/spr_tower1_shop/spr_tower1_shop.yy",},
     {"name":"spr_tower2_bullet_power_up","order":2,"path":"sprites/spr_tower2_bullet_power_up/spr_tower2_bullet_power_up.yy",},
     {"name":"spr_tower2_bullet","order":3,"path":"sprites/spr_tower2_bullet/spr_tower2_bullet.yy",},
     {"name":"spr_tower2_main","order":8,"path":"sprites/spr_tower2_main/spr_tower2_main.yy",},

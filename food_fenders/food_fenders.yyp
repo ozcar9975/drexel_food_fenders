@@ -261,6 +261,7 @@
     {"id":{"name":"spr_tower1_power","path":"sprites/spr_tower1_power/spr_tower1_power.yy",},},
     {"id":{"name":"spr_tower1_powerpoint","path":"sprites/spr_tower1_powerpoint/spr_tower1_powerpoint.yy",},},
     {"id":{"name":"spr_tower1_powerup","path":"sprites/spr_tower1_powerup/spr_tower1_powerup.yy",},},
+    {"id":{"name":"spr_tower1_shop","path":"sprites/spr_tower1_shop/spr_tower1_shop.yy",},},
     {"id":{"name":"spr_tower1","path":"sprites/spr_tower1/spr_tower1.yy",},},
     {"id":{"name":"spr_tower2_bullet_power_up","path":"sprites/spr_tower2_bullet_power_up/spr_tower2_bullet_power_up.yy",},},
     {"id":{"name":"spr_tower2_bullet","path":"sprites/spr_tower2_bullet/spr_tower2_bullet.yy",},},
