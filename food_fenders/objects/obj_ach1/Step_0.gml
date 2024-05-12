@@ -8,7 +8,11 @@ if (parent != noone) {
 	y = 160;
 	
 }
-
-if global.wave = 2 && lives > 0 {
+// leo li 5/12/24
+if global.wave = 1 and temp = false {
 	sprite_index = spr_ach1_complete
+	image_blend = c_green;
+	global.gold += 1000;
+	instance_create_depth(1000,85,-1,obj_complete1);
+	temp = true;
 }

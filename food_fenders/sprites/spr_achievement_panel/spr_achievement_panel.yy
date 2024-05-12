@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Achievements",
-    "path":"folders/Objects/UI/Achievements.yy",
+    "name":"sprites",
+    "path":"folders/Objects/UI/Achievements/sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
