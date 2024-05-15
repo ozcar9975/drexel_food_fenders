@@ -243,6 +243,7 @@
     {"name":"spr_tower4_main","order":10,"path":"sprites/spr_tower4_main/spr_tower4_main.yy",},
     {"name":"spr_tower4_powerpoint","order":9,"path":"sprites/spr_tower4_powerpoint/spr_tower4_powerpoint.yy",},
     {"name":"spr_tower4","order":1,"path":"sprites/spr_tower4/spr_tower4.yy",},
+    {"name":"spr_tower4_empowered","order":3,"path":"sprites/spr_tower4_empowered/spr_tower4_empowered.yy",},
     {"name":"spr_tower5_animation","order":3,"path":"sprites/spr_tower5_animation/spr_tower5_animation.yy",},
     {"name":"spr_tower5_lazer","order":1,"path":"sprites/spr_tower5_lazer/spr_tower5_lazer.yy",},
     {"name":"spr_tower5_main","order":11,"path":"sprites/spr_tower5_main/spr_tower5_main.yy",},

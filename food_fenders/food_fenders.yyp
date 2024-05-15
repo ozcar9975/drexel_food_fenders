@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"food_fenders",
   "resources":[
@@ -297,6 +297,7 @@
     {"id":{"name":"spr_tower4_main","path":"sprites/spr_tower4_main/spr_tower4_main.yy",},},
     {"id":{"name":"spr_tower4_powerpoint","path":"sprites/spr_tower4_powerpoint/spr_tower4_powerpoint.yy",},},
     {"id":{"name":"spr_tower4","path":"sprites/spr_tower4/spr_tower4.yy",},},
+    {"id":{"name":"spr_tower4_empowered","path":"sprites/spr_tower4_empowered/spr_tower4_empowered.yy",},},
     {"id":{"name":"spr_tower5_animation","path":"sprites/spr_tower5_animation/spr_tower5_animation.yy",},},
     {"id":{"name":"spr_tower5_lazer","path":"sprites/spr_tower5_lazer/spr_tower5_lazer.yy",},},
     {"id":{"name":"spr_tower5_main","path":"sprites/spr_tower5_main/spr_tower5_main.yy",},},

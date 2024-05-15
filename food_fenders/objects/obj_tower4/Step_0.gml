@@ -1,3 +1,9 @@
+//Modified Vincent Yang 5/15/2024
+if empowered{
+	sprite_index = spr_tower4_empowered
+}
+
+
 shootingRate = global.bps*2/global.firerate;
 var enemy = instance_nearest(x+15,y+13,obj_monster1);
 var enemy = instance_nearest(x+15,y+13,obj_monster2);
