@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"food_fenders",
   "resources":[
@@ -282,6 +282,7 @@
     {"id":{"name":"spr_tower1","path":"sprites/spr_tower1/spr_tower1.yy",},},
     {"id":{"name":"spr_tower2_bullet_power_up","path":"sprites/spr_tower2_bullet_power_up/spr_tower2_bullet_power_up.yy",},},
     {"id":{"name":"spr_tower2_bullet","path":"sprites/spr_tower2_bullet/spr_tower2_bullet.yy",},},
+    {"id":{"name":"spr_tower2_empowered","path":"sprites/spr_tower2_empowered/spr_tower2_empowered.yy",},},
     {"id":{"name":"spr_tower2_main","path":"sprites/spr_tower2_main/spr_tower2_main.yy",},},
     {"id":{"name":"spr_tower2_power","path":"sprites/spr_tower2_power/spr_tower2_power.yy",},},
     {"id":{"name":"spr_tower2_powered_up","path":"sprites/spr_tower2_powered_up/spr_tower2_powered_up.yy",},},
@@ -294,10 +295,10 @@
     {"id":{"name":"spr_tower3_powered_up","path":"sprites/spr_tower3_powered_up/spr_tower3_powered_up.yy",},},
     {"id":{"name":"spr_tower3_powerpoint","path":"sprites/spr_tower3_powerpoint/spr_tower3_powerpoint.yy",},},
     {"id":{"name":"spr_tower3","path":"sprites/spr_tower3/spr_tower3.yy",},},
+    {"id":{"name":"spr_tower4_empowered","path":"sprites/spr_tower4_empowered/spr_tower4_empowered.yy",},},
     {"id":{"name":"spr_tower4_main","path":"sprites/spr_tower4_main/spr_tower4_main.yy",},},
     {"id":{"name":"spr_tower4_powerpoint","path":"sprites/spr_tower4_powerpoint/spr_tower4_powerpoint.yy",},},
     {"id":{"name":"spr_tower4","path":"sprites/spr_tower4/spr_tower4.yy",},},
-    {"id":{"name":"spr_tower4_empowered","path":"sprites/spr_tower4_empowered/spr_tower4_empowered.yy",},},
     {"id":{"name":"spr_tower5_animation","path":"sprites/spr_tower5_animation/spr_tower5_animation.yy",},},
     {"id":{"name":"spr_tower5_lazer","path":"sprites/spr_tower5_lazer/spr_tower5_lazer.yy",},},
     {"id":{"name":"spr_tower5_main","path":"sprites/spr_tower5_main/spr_tower5_main.yy",},},

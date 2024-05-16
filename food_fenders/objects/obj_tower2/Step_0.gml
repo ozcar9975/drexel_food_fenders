@@ -15,7 +15,14 @@ if global.firerate2 = 5 {
 }
 
 else {
-	sprite_index = spr_tower2
+	
+	if empowered = true {
+		sprite_index = spr_tower2_empowered
+	}
+	
+	else {
+		sprite_index = spr_tower2
+	}
 	
 }
 var enemy = instance_nearest(x+30,y+30,obj_monster1);
