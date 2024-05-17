@@ -9,7 +9,7 @@ if (parent != noone) {
 	
 }
 // leo li 5/12/24
-if global.wave = 1 and temp = false {
+if global.wave = 10 and temp = false {
 	sprite_index = spr_ach1_complete
 	image_blend = c_green;
 	global.gold += 1000;
