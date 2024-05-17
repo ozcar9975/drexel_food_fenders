@@ -14,7 +14,13 @@ if (enemy != noone){
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0, shootingRate)
-				var bullet = instance_create_depth(x+15,y+13,-9,obj_bullet4);
+				//modified Vincent Yang 5/17/24 
+				if empowered == true {
+					var bullet = instance_create_depth(x+15,y+13,-9,obj_tower4_carrots);
+				}
+				else {
+					var bullet = instance_create_depth(x+15,y+13,-9,obj_bullet4);
+				}
 				bullet.speed=50;
 				bullet.direction=point_direction(x+15,y+13,enemyToShoot.x,enemyToShoot.y);
 	

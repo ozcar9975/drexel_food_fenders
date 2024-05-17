@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"food_fenders",
   "resources":[
@@ -167,6 +167,7 @@
     {"id":{"name":"obj_upgrade_button","path":"objects/obj_upgrade_button/obj_upgrade_button.yy",},},
     {"id":{"name":"obj_warp_test_stage","path":"objects/obj_warp_test_stage/obj_warp_test_stage.yy",},},
     {"id":{"name":"objButtonParent","path":"objects/objButtonParent/objButtonParent.yy",},},
+    {"id":{"name":"obj_tower4_carrots","path":"objects/obj_tower4_carrots/obj_tower4_carrots.yy",},},
     {"id":{"name":"Object52","path":"objects/Object52/Object52.yy",},},
     {"id":{"name":"speed_parent","path":"objects/speed_parent/speed_parent.yy",},},
     {"id":{"name":"spinner","path":"objects/spinner/spinner.yy",},},
@@ -295,6 +296,7 @@
     {"id":{"name":"spr_tower3_powered_up","path":"sprites/spr_tower3_powered_up/spr_tower3_powered_up.yy",},},
     {"id":{"name":"spr_tower3_powerpoint","path":"sprites/spr_tower3_powerpoint/spr_tower3_powerpoint.yy",},},
     {"id":{"name":"spr_tower3","path":"sprites/spr_tower3/spr_tower3.yy",},},
+    {"id":{"name":"spr_tower4_carrots","path":"sprites/spr_tower4_carrots/spr_tower4_carrots.yy",},},
     {"id":{"name":"spr_tower4_empowered","path":"sprites/spr_tower4_empowered/spr_tower4_empowered.yy",},},
     {"id":{"name":"spr_tower4_main","path":"sprites/spr_tower4_main/spr_tower4_main.yy",},},
     {"id":{"name":"spr_tower4_powerpoint","path":"sprites/spr_tower4_powerpoint/spr_tower4_powerpoint.yy",},},
