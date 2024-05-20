@@ -6,7 +6,9 @@ sell_price = 250;
 point = obj_tower5_powerpoint
 empowered = false
 
-tower_range = 1500; 
+
+powered = true
+tower_range = 150; 
 shooting = false;
 enemyToShoot = noone;
 
