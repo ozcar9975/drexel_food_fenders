@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bomb_entire",
+  "%Name":"obj_lightning",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_bomb_entire",
+  "name":"obj_lightning",
   "overriddenProperties":[],
   "parent":{
     "name":"tower5 (railgun)",
@@ -30,12 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite132",
-    "path":"sprites/Sprite132/Sprite132.yy",
+    "name":"spr_tower5_lightning",
+    "path":"sprites/spr_tower5_lightning/spr_tower5_lightning.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_bomb_entire",
-    "path":"sprites/spr_bomb_entire/spr_bomb_entire.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
