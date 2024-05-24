@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+//Vincent Yang 5/24/24 duplicated from obj_monster2 and modified
 
 room_persistent = false;
 //modified: Vincent Yang  5/1/24

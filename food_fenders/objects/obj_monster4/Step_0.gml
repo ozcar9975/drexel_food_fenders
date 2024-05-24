@@ -1,3 +1,5 @@
+//Vincent Yang 5/24/24 duplicated from obj_monster2 and modified
+
 room_persistent = false;
 /// kills mob if it runs out of hp
 
