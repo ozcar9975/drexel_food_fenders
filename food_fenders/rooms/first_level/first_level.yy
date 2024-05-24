@@ -34,6 +34,7 @@
     {"name":"inst_54D105F8","path":"rooms/first_level/first_level.yy",},
     {"name":"inst_4B6BE328","path":"rooms/first_level/first_level.yy",},
     {"name":"inst_765BDF90","path":"rooms/first_level/first_level.yy",},
+    {"name":"inst_6EFF748E","path":"rooms/first_level/first_level.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -67,6 +68,7 @@
         {"$GMRInstance":"","%Name":"inst_2158916","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2158916","objectId":{"name":"obj_Monster_Spawner2","path":"objects/obj_Monster_Spawner2/obj_Monster_Spawner2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_1B912AD0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B912AD0","objectId":{"name":"obj_Monster_Spawner3","path":"objects/obj_Monster_Spawner3/obj_Monster_Spawner3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_10FE9CEC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10FE9CEC","objectId":{"name":"waves","path":"objects/waves/waves.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":32.0,},
+        {"$GMRInstance":"","%Name":"inst_6EFF748E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6EFF748E","objectId":{"name":"obj_Monster_Spawner4","path":"objects/obj_Monster_Spawner4/obj_Monster_Spawner4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":0.0,},
       ],"layers":[],"name":"Instances_6","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_4","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_6A488300","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6A488300","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"poison","path":"sprites/poison/poison.yy",},"x":96.0,"y":352.0,},

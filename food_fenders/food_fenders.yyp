@@ -65,7 +65,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"food_fenders",
   "resources":[
@@ -118,9 +118,11 @@
     {"id":{"name":"obj_Monster_Spawner","path":"objects/obj_Monster_Spawner/obj_Monster_Spawner.yy",},},
     {"id":{"name":"obj_Monster_Spawner2","path":"objects/obj_Monster_Spawner2/obj_Monster_Spawner2.yy",},},
     {"id":{"name":"obj_Monster_Spawner3","path":"objects/obj_Monster_Spawner3/obj_Monster_Spawner3.yy",},},
+    {"id":{"name":"obj_Monster_Spawner4","path":"objects/obj_Monster_Spawner4/obj_Monster_Spawner4.yy",},},
     {"id":{"name":"obj_monster1","path":"objects/obj_monster1/obj_monster1.yy",},},
     {"id":{"name":"obj_monster2","path":"objects/obj_monster2/obj_monster2.yy",},},
     {"id":{"name":"obj_monster3","path":"objects/obj_monster3/obj_monster3.yy",},},
+    {"id":{"name":"obj_monster4","path":"objects/obj_monster4/obj_monster4.yy",},},
     {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
     {"id":{"name":"obj_player_lives","path":"objects/obj_player_lives/obj_player_lives.yy",},},
