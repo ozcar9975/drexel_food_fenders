@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tower5_power",
-  "eventList":[],
+  "%Name":"obj_Monster_BossSpawner",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_tower5_power",
+  "name":"obj_Monster_BossSpawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"inventory",
-    "path":"folders/Objects/inventory.yy",
+    "name":"monster",
+    "path":"folders/Objects/monster.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_tower5_power",
-    "path":"sprites/spr_tower5_power/spr_tower5_power.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

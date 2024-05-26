@@ -79,6 +79,8 @@ if keyboard_check_released(ord("C")){
 	}
 }
 
+
+//Modified by Alvin Chen, 5/26/2024
 if keyboard_check_released(ord("D")){
 	if global.inventory.item_has("obj_tower4_power",0.5){
 		global.inventory.item_subtract("obj_tower4_power",0.5)

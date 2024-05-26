@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tower5_power",
-  "eventList":[],
+  "%Name":"obj_bossdead",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_tower5_power",
+  "name":"obj_bossdead",
   "overriddenProperties":[],
   "parent":{
-    "name":"inventory",
-    "path":"folders/Objects/inventory.yy",
+    "name":"bossmonster",
+    "path":"folders/Objects/monster/bossmonster.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tower5_power",
-    "path":"sprites/spr_tower5_power/spr_tower5_power.yy",
+    "name":"spr_bossdead",
+    "path":"sprites/spr_bossdead/spr_bossdead.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -41,11 +41,11 @@ if (enemy != noone){
 }
 
 //Vincent Yang 4/17/24 modified
-var enemy2 = instance_nearest(x,y,obj_monster3);
-if (enemy2 != noone){
-	if(point_distance(x+15,y+13,enemy2.x+15,enemy2.y+13) <= tower_range){
+var enemy3 = instance_nearest(x,y,obj_monster_boss);
+if (enemy3 != noone){
+	if(point_distance(x+15,y+13,enemy3.x+15,enemy3.y+13) <= tower_range){
 		if (!shooting) {
-			enemyToShoot = enemy2;
+			enemyToShoot = enemy3;
 			if(instance_exists(enemyToShoot)){
 				shooting = true;
 				alarm_set(0, shootingRate)
@@ -59,3 +59,5 @@ if (enemy2 != noone){
 		enemyToShoot = noone;
 	}
 }
+
+//Editted by Alvin Chen, 5/26/2024

@@ -8,7 +8,7 @@ empowered = false
 
 
 powered = true
-tower_range = 150; 
+tower_range = 1500; 
 shooting = false;
 enemyToShoot = noone;
 

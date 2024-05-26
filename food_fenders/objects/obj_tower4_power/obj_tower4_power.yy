@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_tower4_power",
+    "path":"sprites/spr_tower4_power/spr_tower4_power.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

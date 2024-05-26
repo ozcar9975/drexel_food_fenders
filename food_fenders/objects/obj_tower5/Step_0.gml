@@ -52,3 +52,25 @@ if (enemy2 != noone){
 		enemyToShoot = noone;
 	}
 }
+//Editted by Alvin Chen, 5/26/2024
+var enemy3 = instance_nearest(x,y,obj_monster_boss);
+if (enemy3 != noone){
+	if(point_distance(x,y,enemy3.x,enemy3.y) <= tower_range){
+		if (!shooting) {
+			enemyToShoot = enemy3;
+			if(instance_exists(enemyToShoot)){ 
+				shooting = true;
+				alarm_set(0,shootingRate)
+				var bullet=instance_create_depth(x, y, -9, obj_tower5_lazer);
+				bullet.speed=100;
+				bullet.direction = point_direction(x, y, enemyToShoot.x,enemyToShoot.y); 
+				var lazer = instance_create_depth(x, y, -9, obj_tower5_lazer_animation);
+				
+			}
+		}
+		
+	}
+	else {
+		enemyToShoot = noone;
+	}
+}
