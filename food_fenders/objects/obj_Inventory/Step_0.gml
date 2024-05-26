@@ -79,3 +79,16 @@ if keyboard_check_released(ord("C")){
 	}
 }
 
+if keyboard_check_released(ord("D")){
+	if global.inventory.item_has("obj_tower4_power",0.5){
+		global.inventory.item_subtract("obj_tower4_power",0.5)
+		global.power3 = true;
+	}
+}
+
+if keyboard_check_released(ord("E")){
+	if global.inventory.item_has("obj_tower5_power",0.5){
+		global.inventory.item_subtract("obj_tower5_power",0.5)
+		global.power3 = true;
+	}
+}
