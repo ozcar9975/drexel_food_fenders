@@ -46,7 +46,17 @@ Work in Progress (Active)
 Food Fenders
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Food Fenders is a tower defense game that includes elements of gacha or luck-based occurences. This will combine elements of luck with skill so that the gameplay is unique and player have more factors to consider.
+
+**Game Elements**
+- Moveable Character to navigate levels
+- Placeable/Sellable Towers that are bought from shop panel
+- Tower Upgrades/Special Upgrades that occur at level 5
+- Free Gacha machine to pull for power-ups and power points 
+- Power-ups that either boost towers or give negative effects
+- Pause and Speed Button
+- Achievement panel
+- Variety of Monsters, including temporarily invincible monsters and boss monsters
 
 ## Badges
 None
