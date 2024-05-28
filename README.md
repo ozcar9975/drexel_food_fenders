@@ -66,8 +66,10 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 ## Support
 [Gamemaker Forums](https://forum.gamemaker.io/index.php)
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+## Roadmap/Ideas
+- Invisible Enemies
+- Slow Tower
+- Tower Equipments
 
 ## Contributing
 We are open to any contributions. The only requirement is to only commit working code, with description of the changes.
