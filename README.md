@@ -71,7 +71,7 @@ See User Guide For Visuals/Gameplay
 
 
 ## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+Examples and outputs are shown in the User Guide. Placement of towers should only take place on areas that does not already have a tower or a path. When placing a tower on an existing tower, the towers will be destroyed as a result. When attemptng to place a tower on the path, the tower will not successfully be placed.
 
 ## Support
 [Gamemaker Forums](https://forum.gamemaker.io/index.php)
