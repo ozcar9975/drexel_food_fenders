@@ -62,7 +62,7 @@ Food Fenders is a tower defense game that includes elements of gacha or luck-bas
 None
 
 ## Visuals
-Work in Progress
+See User Guide For Visuals/Gameplay
 
 ## Installation
 [Gamemaker Setup](https://gamemaker.io/en/download#_ga=2.93999898.621368411.1716904602-397049984.1716904602) 
