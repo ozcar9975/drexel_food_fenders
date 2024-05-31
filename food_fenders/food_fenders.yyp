@@ -24,6 +24,7 @@
     {"$GMFolder":"","%Name":"about_us","folderPath":"folders/Objects/main_menu/about_us.yy","name":"about_us","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"monster","folderPath":"folders/Objects/monster.yy","name":"monster","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"bossmonster","folderPath":"folders/Objects/monster/bossmonster.yy","name":"bossmonster","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"monster4sprites","folderPath":"folders/Objects/monster/monster4sprites.yy","name":"monster4sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"monster1sprites","folderPath":"folders/Objects/monster/monster1sprites.yy","name":"monster1sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"monster2sprites","folderPath":"folders/Objects/monster/monster2sprites.yy","name":"monster2sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"monster3sprites","folderPath":"folders/Objects/monster/monster3sprites.yy","name":"monster3sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -67,7 +68,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"food_fenders",
   "resources":[
@@ -121,6 +122,7 @@
     {"id":{"name":"obj_mon1dead","path":"objects/obj_mon1dead/obj_mon1dead.yy",},},
     {"id":{"name":"obj_mon2dead","path":"objects/obj_mon2dead/obj_mon2dead.yy",},},
     {"id":{"name":"obj_mon3dead","path":"objects/obj_mon3dead/obj_mon3dead.yy",},},
+    {"id":{"name":"obj_mon4dead","path":"objects/obj_mon4dead/obj_mon4dead.yy",},},
     {"id":{"name":"obj_monster_boss","path":"objects/obj_monster_boss/obj_monster_boss.yy",},},
     {"id":{"name":"obj_Monster_BossSpawner","path":"objects/obj_Monster_BossSpawner/obj_Monster_BossSpawner.yy",},},
     {"id":{"name":"obj_Monster_Spawner","path":"objects/obj_Monster_Spawner/obj_Monster_Spawner.yy",},},
@@ -272,6 +274,8 @@
     {"id":{"name":"spr_mon3","path":"sprites/spr_mon3/spr_mon3.yy",},},
     {"id":{"name":"spr_mon3dead","path":"sprites/spr_mon3dead/spr_mon3dead.yy",},},
     {"id":{"name":"spr_mon3done","path":"sprites/spr_mon3done/spr_mon3done.yy",},},
+    {"id":{"name":"spr_mon4","path":"sprites/spr_mon4/spr_mon4.yy",},},
+    {"id":{"name":"spr_mon4dead","path":"sprites/spr_mon4dead/spr_mon4dead.yy",},},
     {"id":{"name":"spr_Monster1","path":"sprites/spr_Monster1/spr_Monster1.yy",},},
     {"id":{"name":"spr_monster2","path":"sprites/spr_monster2/spr_monster2.yy",},},
     {"id":{"name":"spr_monster3","path":"sprites/spr_monster3/spr_monster3.yy",},},

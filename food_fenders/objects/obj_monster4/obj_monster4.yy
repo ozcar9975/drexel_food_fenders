@@ -46,8 +46,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite30",
-    "path":"sprites/Sprite30/Sprite30.yy",
+    "name":"spr_mon4",
+    "path":"sprites/spr_mon4/spr_mon4.yy",
   },
   "spriteMaskId":null,
   "visible":true,

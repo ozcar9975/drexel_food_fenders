@@ -5,11 +5,12 @@ room_persistent = false;
 
 mon2speed = 0
 
+//Vincent Yang 5/31/24 modified
 if (hp<=0) 
 {
 	//Mod: Alvin Chen, 4/18/24
 	//brings monster to death animation
-	instance_create_depth(x,y,-1,obj_mon2dead)
+	instance_create_depth(x,y,-1,obj_mon4dead)
 	instance_destroy();
 
 }
