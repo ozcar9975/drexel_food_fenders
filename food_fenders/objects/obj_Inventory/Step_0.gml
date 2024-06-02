@@ -54,8 +54,8 @@ if global.randomLoot != 0 {
 //for tower 1-3 power up activation
 //all the values are cut in half because the inventory is a global value
 if keyboard_check_released(ord("A")){
-	if global.inventory.item_has("obj_tower1_power",0.5){
-		global.inventory.item_subtract("obj_tower1_power",0.5)
+	if global.inventory.item_has("obj_tower1_power",1){
+		global.inventory.item_subtract("obj_tower1_power",1)
 		global.power1 = true;
 
 	}
@@ -66,15 +66,15 @@ if keyboard_check_released(ord("A")){
 
 
 if keyboard_check_released(ord("B")){
-	if global.inventory.item_has("obj_tower2_power",0.5){
-		global.inventory.item_subtract("obj_tower2_power",0.5)
+	if global.inventory.item_has("obj_tower2_power",1){
+		global.inventory.item_subtract("obj_tower2_power",1)
 		global.power2 = true;
 	}
 }
 
 if keyboard_check_released(ord("C")){
-	if global.inventory.item_has("obj_tower3_power",0.5){
-		global.inventory.item_subtract("obj_tower3_power",0.5)
+	if global.inventory.item_has("obj_tower3_power",1){
+		global.inventory.item_subtract("obj_tower3_power",1)
 		global.power3 = true;
 	}
 }
@@ -82,15 +82,15 @@ if keyboard_check_released(ord("C")){
 
 //Modified by Alvin Chen, 5/26/2024
 if keyboard_check_released(ord("D")){
-	if global.inventory.item_has("obj_tower4_power",0.5){
-		global.inventory.item_subtract("obj_tower4_power",0.5)
-		global.power3 = true;
+	if global.inventory.item_has("obj_tower4_power",1){
+		global.inventory.item_subtract("obj_tower4_power",1)
+		global.power4 = true;
 	}
 }
 
 if keyboard_check_released(ord("E")){
-	if global.inventory.item_has("obj_tower5_power",0.5){
-		global.inventory.item_subtract("obj_tower5_power",0.5)
-		global.power3 = true;
+	if global.inventory.item_has("obj_tower5_power",1){
+		global.inventory.item_subtract("obj_tower5_power",1)
+		global.power5 = true;
 	}
 }

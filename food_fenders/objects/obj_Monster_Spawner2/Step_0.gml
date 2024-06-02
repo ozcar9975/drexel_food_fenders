@@ -39,6 +39,10 @@ if global.power3 == true {
 	alarm[4] = room_speed*5
 }
 
+if global.power5 == true {
+	global.power5 = false;
+	instance_create_depth(x-500,y,-1,choose(obj_tower_destroyer,obj_monster_destroyer))
+}
 
 
 

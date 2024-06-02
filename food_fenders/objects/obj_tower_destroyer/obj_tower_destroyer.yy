@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mini_tower3",
+  "%Name":"obj_tower_destroyer",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_tower_destroyer","path":"objects/obj_tower_destroyer/obj_tower_destroyer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_mini_tower3",
+  "name":"obj_tower_destroyer",
   "overriddenProperties":[],
   "parent":{
-    "name":"tower3 (gold)",
-    "path":"folders/Objects/tower3 (gold).yy",
+    "name":"tower5 (railgun)",
+    "path":"folders/Objects/tower5 (railgun).yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"str_mini_tower3",
-    "path":"sprites/str_mini_tower3/str_mini_tower3.yy",
+    "name":"spr_bomb_entire",
+    "path":"sprites/spr_bomb_entire/spr_bomb_entire.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

@@ -7,6 +7,8 @@ global.randomLoot = 0;
 global.power1 = false;
 global.power2 = false;
 global.power3 = false;
+global.power4 = false;
+global.power5 = false;
 
 
 //for testing
