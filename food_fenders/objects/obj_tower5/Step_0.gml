@@ -2,6 +2,11 @@ shootingRate = global.bps*2/global.firerate;
 var enemy = instance_nearest(x,y,obj_monster1);
 var enemy = instance_nearest(x,y,obj_monster2);
 
+// June 2 Modded by Oscar Zhang
+// Changes the sprite of tower if empowered
+if empowered == true {
+	sprite_index = spr_tower5_empowered;
+}
 
 if empowered == true and powered == true{
 	instance_create_depth(0,0,-1,obj_bomb_entire)
